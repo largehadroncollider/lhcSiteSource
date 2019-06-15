@@ -1,0 +1,40 @@
+body {
+	background-color: #000000;
+	font-family: 'Orbitron', sans-serif;
+	color: #6519d8;
+	max-width: 900px;
+	width: 95%;
+	padding: 20px;
+	margin: 20px auto;
+	/*border-right: 2px solid #38fafc;
+	border-left: 2px solid #38fafc;*/
+}
+
+footer {
+ 	font-size: 10px;
+
+ }
+
+a:visited{
+	color:#38fafc;
+}
+.kickASCIIArt{
+	font-family: monospace;
+	white-space: pre;
+	text-align: center;
+	font-size: 1vw;
+	color: #f41cf5;
+}
+#mainLogo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  }
+
+/*
+Colors used:
+Neon pink: #f41cf5;
+Neon blue: #38fafc;
+Neon purple:#6519d8;
+*/
