@@ -1,4 +1,8 @@
-
+---
+title: "LHC Parties Info"
+date: 2019-03-26T08:47:11+01:00
+draft: false
+---
 # LHC Meetup & Badge Pickup at Beer Park (Outside Paris)
 Wednesday, August 10th 9:00  – 11:30 pm
 
