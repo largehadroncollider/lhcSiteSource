@@ -11,11 +11,8 @@ The LHC is a loose collective of people interested in hacking. LHC began on /r/d
 
 ### Some useful links
 
-
-[LHC twitter account](https://twitter.com/L0nelyH4ckers "Twitter Account")  
+[LHC twitter account](https://x.com/L0nelyH4ckers "Twitter Account")  
 
 [LHC subreddit](https://www.reddit.com/r/largehadroncollider "LHC Subreddit")  
 
 [DEF CON subreddit](https://www.reddit.com/r/defcon "DEF CON Subreddt")  
-
-[LHC members](https://twitter.com/highwiz/lists/lhc/members "LHC Members")

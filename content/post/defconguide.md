@@ -154,7 +154,9 @@ Attend the TravelCon party (check [@defconparties](https://twitter.com/defconpar
 
 It’s advisable to stay as close to the con as possible. Stay at a con hotel if you want to be super close to the action and not have to take a cab/Lyft/Uber at the end of the day back to your room. Beware though, you might have to wait forever for an elevator to go up/down to your room, especially if you booked near popular shit.
 
-Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, ask for a DEF CON hotel key when you check in (if you want one). These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. Official DEF CON hotels usually carry DEF CON TV, which allows you to watch DEF CON talks from your room.
+Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, ask for a DEF CON hotel key when you check in (if you want one). These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. 
+
+Official DEF CON hotels usually carry DEF CON TV, which allows you to watch DEF CON talks from your room, but note that since the move away from Caesar's properties, there's no certainty that DEF CON TV will continue to be available in the hotels associated with DEF CON.
 
 If you’re really strapped for cash, you can do an Airbnb or an off-the-strip hotel/inn. You can also share a room with a friend. Both the DEF CON forums and the DEF CON subreddit have threads for room sharing during the months leading up to the event.
 
@@ -171,7 +173,8 @@ For all the DEF CON folks staying in Caesar's Properties: the VIP override for t
 
 ## Work Trip?
 
-So you talked to the powers that be at your dayjob to pay for DEF CON, awesome. Rock those Social Engineering skills ;). The money people at dayJob are probably going to want a receipt from the purchase of your badge, but as we all know, DEF CON badges are cash only, at the door. So what do we do? The lovely folks running this circus will have provided a handy dandy receipt for this exact problem, expected to be available [here](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20receipt.pdf).
+So you talked to the powers that be at your dayjob to pay for DEF CON, awesome. Rock those Social Engineering skills ;). The money people at dayJob are probably going to want a receipt from the purchase of your badge, but as we all know, DEF CON badges are cash only, at the door. So what do we do? The lovely folks running this circus will have provided a handy dandy receipt for this exact problem, expected to be available on the website, and the [media server](https://media.defcon.org).
+
 
 # "Doing The Con"
 
@@ -179,7 +182,7 @@ So, you’ve got your heavy-ass laptop strapped to your back, your $19 coffee in
 
 ## Badges
 
-Unlike many other conferences, DEF CON has no pre-registration or registration. Entry is **CASH ONLY** and grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically made available online, just after the event.
+DEF CON now has [pre-registration](https://shop.defcon.org/products/def-con-32-las-vegas-convention-center), and you can buy your badge early, but if you plan on doing [LineCon](#linecon), payment is **CASH ONLY**~~. Your registration grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically made available online, just after the event.
 
 Most attendees (and probably you) receive Human badges. Other attendees will have different looking badges that signify their distinct role or job at DEF CON. Of particular note:
 
@@ -188,11 +191,13 @@ Most attendees (and probably you) receive Human badges. Other attendees will hav
 
 ## LineCon
 
-If you want a badge, get in line earlier rather than later, or you might just get a piece of paper instead. (Really.) (The piece of paper will serve as your official DEF CON badge; this is just in event that they run out of the "normal Human" badges.)  The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out **fast**.
+If you want a badge, get in line earlier rather than later, or you might just get a piece of paper instead. (Really.) The piece of paper will serve as your official DEF CON badge; this is just in event that they run out of the "normal Human" badges.
+
+The long process of waiting in line to get your badge is affectionately known as "LineCon," and it is (sadly?) not what it used to be. But it’s also kinda still a thing. Be prepared to hit beachballs into the air while drinking coffee. Maybe bring beer and make friends in line. You’ll have time to get to know them. :) Also, if you want official swag, get in that line ride early on Thursday, because swag sells out **fast**.
 
 ## DEF CON Program
 
-When you buy your badge, you're given an official printed "program". Do read it; it contains a tremendous amount of very important information, and its design is often a work of art. It's not, however, anything even remotely close to pocket-sized. There will likely be a PDF copy of the program available [here](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20program.pdf), and you can see DEF CON 26's program [here](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20program.pdf). We recommend using [HackerTracker](https://hackertracker.app) to stay up-to-date with the latest agenda.
+When you buy your badge, you're given an official printed "program". Do read it; it contains a tremendous amount of very important information, and its design is often a work of art. It's not, however, anything even remotely close to pocket-sized. We recommend using [HackerTracker](https://hackertracker.app) to stay up-to-date with the latest agenda.
 
 ## Navigating the Con
 
@@ -214,7 +219,7 @@ Speaking of full talks: if there is a talk that you absolutely must attend, ensu
 
 ### RoomCon
 
-If you couldn't get into a talk, or you hate crowds and don't want to line up for hours, you might enjoy RoomCon: DEF CON TV in your con hotel room!
+If you couldn't get into a talk, or you hate crowds and don't want to line up for hours, you might enjoy RoomCon: DEF CON TV in your con hotel room! 
 
 ## DC101
 
@@ -222,7 +227,7 @@ DC101 is a talk track aimed at newbies with less technical and community knowled
 
 ## Villages
 
-Villages are focused topic areas spread throughout the con. Each village generally has a single assigned physical space to stay in. See the [DEF CON Villages page](https://www.defcon.org/html/defcon-27/dc-27-villages.html) for more information.
+Villages are focused topic areas spread throughout the con. Each village generally has a single assigned physical space to stay in. See the [DEF CON Villages page](https://defcon.org/html/defcon-32/dc-32-villages.html) for more information.
 
 ## Workshops
 
@@ -232,15 +237,15 @@ If you are lucky enough to get into a workshop, bring your laptop: these are han
 
 ## Contests and Events
 
-DEF CON has a ton of contests and events for you to get involved with! No matter who you are or what you do, there's certain to be something that you can jump into. See the [DEF CON Contests and Events page](https://www.defcon.org/html/defcon-27/dc-27-ce.html) for more information.
+DEF CON has a ton of contests and events for you to get involved with! No matter who you are or what you do, there's certain to be something that you can jump into. See the [DEF CON Contests](https://defcon.org/html/defcon-32/dc-32-contests.html) for more information.
 
 ## CFP
 
-Call for Papers/Presentations. This is the process for how talks, workshops, etc. are selected. You send in what you want to tell the attendees of DEF CON, and a group of curmudgeons will review it and pick what will be a best fit. You can find CFP info [here](https://www.reddit.com/r/Defcon/comments/bivqhg/def_con_27_village_cfps/).
+Call for Papers/Presentations. This is the process for how talks, workshops, etc. are selected. You send in what you want to tell the attendees of DEF CON, and a group of curmudgeons will review it and pick what will be a best fit. You can find CFP info [here](https://defcon.org/html/defcon-32/dc-32-cfp.html).
 
 ## SkyTalks
 
-[SkyTalks](https://skytalks.info/) is where more sensitive content is presented, so whatever you do, don’t try to record anything in there. _When_ you’re discovered you *will* be kicked out, most likely you will have your recording device destroyed, and you will be shamed by everyone in attendance. SkyTalks is popular, so get in line early (maybe "a talk early" early). In the past, badges have been sold that allow you to remain in the room and the proceeds support SkyTalks.
+[SkyTalks](https://skytalks.info/) is where more sensitive content is presented, and as of 2024, they have moved to BSidesLV, so if you want to visit make sure you get a ticket. Whatever you do, don’t try to record anything in there.  _When_ you’re discovered you *will* be kicked out, most likely you will have your recording device destroyed, and you will be shamed by everyone in attendance. SkyTalks is popular, so get in line early (maybe "a talk early" early). In the past, badges have been sold that allow you to remain in the room and the proceeds support SkyTalks.
 
 If you want to go to a SkyTalk, and a mainline DC talk that are scheduled at the same time, go to the SkyTalk. Mainline talks are recorded, and SkyTalks are not.
 
@@ -248,7 +253,7 @@ You can watch [@dcskytalks](https://twitter.com/dcskytalks) for updates.
 
 ## Parties
 
-DEF CON is all about the parties and there’s always going to be a ton. You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter and to check the [DEF CON parties calendar](http://19.defconparties.com/dcp). Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
+DEF CON is all about the parties and there’s always going to be a ton. You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
 
 ### Getting Your Drinks
 Many people in Vegas are drunk. Most likely many of your fellow hackers will be as well! This is Vegas and DEF CON -- you never need to directly pay for a drink. If you are unable to get a drink from one of the many vendors or parties around, there is always the cocktail waitresses. If you act as though you are actively gambling, or actually gamble, provide a tip and you can ensure a constant stream of drinks (or just grab your one and go). The trick here is too look like you have been sitting their for a while. It's a good way to kill a little time and rest your feet!
@@ -288,16 +293,16 @@ ATM fees are on the higher side and can add up pretty quickly. Fake ATMs were on
 
 Use the section below to get a better approximation of how much cash you should bring.  Note: These are based on our collective past experiences and are to be used as a GUIDELINE ONLY, so plan accordinglly.  Don't come whining to us if prices on some things are higher than listed below or if you order some fancy bottle of booze that ends up costing you $10,000.
 
-- DEF CON badge - $300
+- DEF CON badge - $480 prereg, $460 cash
 - Swag
-  * Tshirt - $20
+  * Tshirt - $30-40
   * DEF CON bag - $60
-  * DEF CON hat - $15-$35
-  * Custom Badges - $5-$120
+  * DEF CON hat - $25-$40
+  * Custom Badges - $5-$150
 - Food
   * Meal at the Casino - $25-$infinity
-  * Mixed drink at the Casino - $10-$12
-  * Beer at the Casino - $6-$8
+  * Mixed drink at the Casino - $12-$20
+  * Beer at the Casino - $8-12
   * Bottle of water at the Casino - $3-$10
 
 This event is in the USA, and [tipping](https://www.usatoday.com/story/money/2015/06/14/much-tip-depends/71137254/) is customary for some service employees.
@@ -353,7 +358,7 @@ Be a hero:
 
 ## Badge Life/Indie Badges
 
-Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. (Take the batteries out of your DC26 badges though, unless you like battery acid on your shirt.) These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch Twitter [#badgelife](https://twitter.com/hashtag/badgelife) for the latest info or [@Hermit_Hacker](https://twitter.com/hermit_hacker)'s [List](https://docs.google.com/spreadsheets/d/1AAQhLHpA4vzBJbySKs13kGlBty9BVqNwCylW5Y7qZlc/edit#gid=0). Save your lunch money as it’s an expensive habit.
+Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. (Take the batteries out of your DC26 badges though, unless you like battery acid on your shirt.) These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch Twitter [#badgelife](https://twitter.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/htmlview). Save your lunch money as it’s an expensive habit.
 
 ## Con Flu
 
@@ -395,7 +400,7 @@ A lot of villages, etc., use Slack channels. It’s a good idea to be comfortabl
 
 ## Telegram
 
-Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2019.dcfurs.com)) use Telegram for realtime communication.
+Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2023.dcfurs.com)) use Telegram for realtime communication.
 
 ## Reddit
 
@@ -540,10 +545,10 @@ It's rare, but an ink pen does still come in useful from time to time.
 
 DEF CON requires a LOT of walking. The hotels are enormous; even just walking through two casinos to get to your hotel will take you 15 minutes. Your walks outside in the LV weather will feel like a slow descent into hell. Vegas in August feels like you are dying inside an oven with zerofuckingpercenthumidity. You will get exhausted and want a quick nap or want to drop some stuff off and start wishing your room was closer. You’ll also want to be able to stumble into your room immediately after overdrinking.
 <!--This line needs to get reworked... All the 'ands'.-->
-Cabs get expensive and are popular and all the times you want to use them too, and may try to drive you to strip clubs and other places. Compare prices to Lyft/Uber and see which one is cheaper. You can also make friends with people who want to go to the same place you do, and split the cost. Try to travel at off times, and think in advance of where you need to be, and when you need to be there, then give yourself at least the standard margin.
+Cabs can get expensive and are very popular, and they may try to drive you to strip clubs and other places. Compare prices to Lyft/Uber to see which one is cheaper. You can also make friends with people who want to go to the same place you do and split the cost. Try to travel at off times, and think in advance of where you need to be, when you need to be there, then give yourself at least the standard margin.
 
 Depending on where you are staying, the Las Vegas monorail might be another option to help you get around. It runs between MGM Grand and SLS.
-It operates between 7am and 00:00-03:00 depending on the day. More details can be found [here](https://www.lvmonorail.com/). Keep an eye on Groupon for discounts on standard multi-day fares.
+It operates between 7am and 00:00-03:00 depending on the day. More details can be found [here](https://www.lvmonorail.com/).
 
 ### FroggerCon
 
@@ -572,27 +577,26 @@ It’s DEF CON in China. Everyone has a different opinion about this.
 
 ## DC Groups
 
-DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of DEF CON. They are generally identified by their area code. [DC801](https://www.dc801.org/) and [DC303](https://dc303.org/) are particularly well known. You can find groups near you at [DEF CON Groups](https://defcongroups.org).
+DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of DEF CON. They are generally identified by their area code. You can find groups near you at [DEF CON Groups](https://defcongroups.org).
 
 # Links
 
-* [https://www.reddit.com/r/Defcon/comments/bw9t25/def_con_27_mega_thread_info/](https://www.reddit.com/r/Defcon/comments/bw9t25/def_con_27_mega_thread_info/)
-* [http://defcon.stotan.org/faq/rules.htm](http://defcon.stotan.org/faq/rules.htm)
-* [http://defcon.stotan.org/faq/fullmonty.htm](http://defcon.stotan.org/faq/fullmonty.htm)
+* [Mega DEF CON Info](https://www.reddit.com/r/Defcon/comments/tx7tg2/mega_def_con_info_for_your_planning_enjoyment/)
 
 # Document Hackers
 
-* hashgrind / [@hashgrind](https://twitter.com/hashgrind)
-* Beaker / SethOps / [@swordofomen](https://twitter.com/swordofomen)
-* furb / [@dixieflatline_](https://twitter.com/dixieflatline_)
-* Winyl / [@serraabak](https://twitter.com/serraabak)
-* H4r0ld / [@JonSelman](https://twitter.com/JonSelman)
+* hashgrind / [@hashgrind](https://x.com/hashgrind)
+* Beaker / SethOps / [@swordofomen](https://x.com/swordofomen)
+* furb / [@dixieflatline_](https://x.com/dixieflatline_)
+* Winyl / [@serraabak](https://x.com/serraabak)
+* H4r0ld / [@JonSelman](https://x.com/JonSelman)
 * Quix
-* LP / [@Last_Person](https://twitter.com/Last_Person)
+* LP / [@Last_Person](https://x.com/Last_Person)
 * mars
-* n0v / [@n0vsec](https://twitter.com/n0vsec)
-* 2bitwannabe / [@2bitwannabe](https://twitter.com/2bitwannabe)
-* Chris / [@TechGirlMN](https://twitter.com/TechGirlMN)
-* princess / [@Princess_htw](https://twitter.com/princess_htw)
-* IlliterateBeef / [@illiteratebeef](https://twitter.com/illiteratebeef)
-* aNullValue / [@aNullValue](https://twitter.com/anullvalue)
+* n0v / [@n0vsec](https://x.com/n0vsec)
+* 2bitwannabe / [@2bitwannabe](https://x.com/2bitwannabe)
+* Chris / [@TechGirlMN](https://x.com/TechGirlMN)
+* princess / [@Princess_htw](https://x.com/princess_htw)
+* IlliterateBeef / [@illiteratebeef](https://x.com/illiteratebeef)
+* aNullValue / [@aNullValue](https://x.com/anullvalue)
+* p0ns / [@p0ns](https://x.com/p0ns)
