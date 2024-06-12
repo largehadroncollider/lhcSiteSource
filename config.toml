@@ -1,4 +1,4 @@
-baseURL = "https://lonelyhackers.club"
+baseURL = ""
 languageCode = "en-us"
 title = "Lonely Hackers Club"
 theme = "retrofulhugo-lhc"
