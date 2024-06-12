@@ -2,7 +2,8 @@
 linktitle: n00b guide
 menu:
   main:
-    parent: Sections
+    name: n00b guide
+    weight: 10
 title: DEF CON n00b guide
 weight: 01
 draft: false

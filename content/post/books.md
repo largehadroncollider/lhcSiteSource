@@ -1,10 +1,10 @@
 ---
 linktitle: books
 menu:
-  main:
-    parent: Sections
+  main: 
+    name: books
+    weight: 20
 title: books
-weight: 02
 draft: false
 ---
 
