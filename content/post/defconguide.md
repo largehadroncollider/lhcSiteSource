@@ -400,7 +400,7 @@ A lot of villages, etc., use Slack channels. It’s a good idea to be comfortabl
 
 ## Telegram
 
-Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2023.dcfurs.com)) use Telegram for realtime communication.
+Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2024.dcfurs.com)) use Telegram for realtime communication.
 
 ## Reddit
 

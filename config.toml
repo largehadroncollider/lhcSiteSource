@@ -1,9 +1,9 @@
 baseURL = "https://lonelyhackers.club"
 languageCode = "en-us"
 title = "Lonely Hackers Club"
-theme = "retrofulhugo"
+theme = "retrofulhugo-lhc"
 
 [Params]
-  subtitle = "WAHAHAHA"
-  logo = "lhc_logo_dc27.png"
+  logo = "lhc_logo_dc31.png"
   commit = false
+  
