@@ -240,7 +240,7 @@ Workshops are (generally 4 hour) small, hands-on classes. Pre-registration is re
 
 If you are lucky enough to get into a workshop, bring your laptop: these are hands-on classes. The material for past workshops (and other assorted material) is online at [https://media.defcon.org/](https://media.defcon.org/).
 
-## Contests and Events
+## Contests
 
 DEF CON has a ton of contests and events for you to get involved with! No matter who you are or what you do, there's certain to be something that you can jump into. See the [DEF CON Contests](https://defcon.org/html/defcon-32/dc-32-contests.html) for more information.
 
@@ -258,7 +258,9 @@ You can watch [@dcskytalks](https://twitter.com/dcskytalks) for updates.
 
 ## Parties
 
-DEF CON is all about the parties and there’s always going to be a ton. You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
+DEF CON is all about the parties and there’s always going to be a ton. See [Parties, Meetups, & Events](https://defcon.org/html/defcon-32/dc-32-pmne.html) for the list.
+
+You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
 
 ### Getting Your Drinks
 Many people in Vegas are drunk. Most likely many of your fellow hackers will be as well! This is Vegas and DEF CON -- you never need to directly pay for a drink. If you are unable to get a drink from one of the many vendors or parties around, there is always the cocktail waitresses. If you act as though you are actively gambling, or actually gamble, provide a tip and you can ensure a constant stream of drinks (or just grab your one and go). The trick here is too look like you have been sitting their for a while. It's a good way to kill a little time and rest your feet!
