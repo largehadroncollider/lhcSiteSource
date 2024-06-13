@@ -6,3 +6,4 @@ theme = "retrofulhugo-lhc"
 [Params]
   logo = "lhc_logo_dc31.png"
   commit = false
+  favicon = "favicon.ico"
