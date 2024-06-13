@@ -1,6 +1,8 @@
 ---
 title: "Welcome to the Lonely Hackers Club"
 draft: false
+type: page
+layout: single
 ---
 
 ### What is the LHC?

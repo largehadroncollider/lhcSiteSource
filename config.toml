@@ -1,9 +1,14 @@
-baseURL = "https://lonelyhackers.club"
+baseURL = ""
 languageCode = "en-us"
 title = "Lonely Hackers Club"
-theme = "retrofulhugo"
+theme = "retrofulhugo-lhc"
 
 [Params]
-  subtitle = "WAHAHAHA"
-  logo = "lhc_logo_dc27.png"
+  logo = "lhc_logo_dc31.png"
   commit = false
+  
+[menus]
+  [[menus.main]]
+    name = 'LHC Shop'
+    url = 'https://www.redbubble.com/shop/ap/161645784'
+    weight = 10
