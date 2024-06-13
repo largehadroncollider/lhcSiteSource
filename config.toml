@@ -7,3 +7,8 @@ theme = "retrofulhugo-lhc"
   logo = "lhc_logo_dc31.png"
   commit = false
   favicon = "favicon.ico"
+
+[Author]
+  handle = "LHC"
+  github = "largehadroncollider/lhcSiteSource"
+  twitter = "L0nelyH4ckers"
