@@ -6,9 +6,3 @@ theme = "retrofulhugo-lhc"
 [Params]
   logo = "lhc_logo_dc31.png"
   commit = false
-  
-[menus]
-  [[menus.main]]
-    name = 'LHC Shop'
-    url = 'https://www.redbubble.com/shop/ap/161645784'
-    weight = 10
