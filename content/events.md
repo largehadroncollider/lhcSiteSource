@@ -7,7 +7,7 @@ menu:
 ---
 
 # High Roller Con
-## Saturday, August 10th 5:00 – 7:00 pm
+## Saturday, August 10th 2024 5:00 – 7:00 pm
 
 All the info is on https://highrollercon.com 
 

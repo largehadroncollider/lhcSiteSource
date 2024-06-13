@@ -2,7 +2,7 @@
 body {
   font-family: 'Fira Sans', Helvetica, Arial, sans-serif;
 	font-size: 16px;
-  color: #999;
+  color: #ccc;
   position: relative;
   background: #151515;
 }
@@ -10,28 +10,28 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 	text-align: justify;
-	color: #999;
+	color: #ccc;
 }
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-	text-shadow: 0 0 1px #00ebeb, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 3px #00ebeb, 0 0 3px rgba(209, 0, 177, 0.8);
+	text-shadow: 0 0 1px #89dde3, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 3px #89dde3, 0 0 3px rgba(209, 0, 177, 0.8);
 	color: #ccc;
 }
 
 a {
 	cursor:pointer;
-	color:#00ebeb;
+	color:#89dde3;
 	text-decoration:none;
-	text-shadow: 0 0 1px #00ebeb, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 10px #00ebeb, 0 0 5px rgba(209, 0, 177, 0.8);
+	text-shadow: 0 0 1px #89dde3, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 10px #89dde3, 0 0 5px rgba(209, 0, 177, 0.8);
 	font-family: 'Fira Sans', Helvetica, Arial, sans-serif;
 	font-size: 100%;
 }
 
 a:hover{
-	color:#00ebeb;
-	text-shadow: 0 0 1px #00ebeb, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 15px #00ebeb, 0 0 25px rgba(209, 0, 177, 0.8);
+	color:#89dde3;
+	text-shadow: 0 0 1px #89dde3, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 15px #89dde3, 0 0 25px rgba(209, 0, 177, 0.8);
 	text-decoration: none;
 }
 
@@ -121,7 +121,7 @@ img.avatar-img {
 
 .navbar-custom {
   background: #000;
-  border-bottom: 3px solid #d100b1;
+  border-bottom: 3px solid #d6768a;
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 }
 
@@ -129,11 +129,11 @@ img.avatar-img {
   text-transform: uppercase;
   font-size: 18px;
   letter-spacing: 1px;
-  color: #00ebeb;
+  color: #89dde3;
 }
 
 .navbar-custom .navbar-brand {
-	color: #00ebeb;
+	color: #89dde3;
 	font-size: 22px;
 }
 
@@ -175,7 +175,7 @@ img.avatar-img {
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-	border: 3px solid #d100b1;
+	border: 3px solid #d6768a;
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
@@ -251,7 +251,7 @@ img.avatar-img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #00ebeb;
+    border: 1px solid #89dde3;
   }
 }
 
@@ -260,7 +260,7 @@ img.avatar-img {
 footer {
 	padding: 30px 0;
 	background: #000;
-	border-top: 3px #d100b1 solid;
+	border-top: 3px #d6768a solid;
 	margin-top: 50px;
 	font-size: 12px;
 	font-family: monospace;
@@ -269,7 +269,7 @@ footer {
 
 
 footer a {
-  color: #00ebeb;
+  color: #89dde3;
 }
 
 footer .list-inline {
@@ -317,7 +317,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #00ebeb;
+  color: #89dde3;
 }
 
 .post-preview a:focus,
@@ -347,7 +347,7 @@ footer .theme-by {
 .post-preview .post-entry {
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-align: justify;
-	color: #999;
+	color: #ccc;
 }
 .post-preview .post-read-more {
   font-weight: 400;
@@ -402,12 +402,12 @@ footer .theme-by {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 50px;
-	text-shadow: 0 0 1px #00ebeb, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 10px #00ebeb, 0 0 5px rgba(209, 0, 177, 0.8);
+	text-shadow: 0 0 1px #89dde3, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 10px #89dde3, 0 0 5px rgba(209, 0, 177, 0.8);
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
-	text-shadow: 0 0 1px #00ebeb, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 10px #00ebeb, 0 0 5px rgba(209, 0, 177, 0.8);
+	text-shadow: 0 0 1px #89dde3, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 10px #89dde3, 0 0 5px rgba(209, 0, 177, 0.8);
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -522,7 +522,7 @@ footer .theme-by {
   border-radius: 5px;
 	color: #ccc;
 	background: #000;
-  border: 1px solid #d100b1;
+  border: 1px solid #d6768a;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -532,8 +532,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
 	background: #000;
-  color: #00ebeb;
-  border: 1px solid #d100b1;
+  color: #89dde3;
+  border: 1px solid #d6768a;
 }
 
 .pager {
@@ -596,20 +596,20 @@ table {
 
 table td,table th {
 	vertical-align:center;
-	border: 1px solid #00ebeb;
+	border: 1px solid #89dde3;
 	line-height:15px;
 	padding:10px;
 }
 
 thead {
 	background: #000;
-  color:#00ebeb;
+  color:#89dde3;
   text-decoration:none;
   font-size: 90%;
   text-align: left;
   font-size:90%;
   font-weight: bold;
-  text-shadow: 0 0 1px #00ebeb, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.9), 0 0 15px #00ebeb, 0 0 45px rgba(209, 0, 177, 0.8);
+  text-shadow: 0 0 1px #89dde3, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.9), 0 0 15px #89dde3, 0 0 45px rgba(209, 0, 177, 0.8);
 }
 
 table tbody tr:nth-child(odd){
