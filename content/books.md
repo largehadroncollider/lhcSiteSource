@@ -6,6 +6,8 @@ menu:
     weight: 50
 title: books
 draft: false
+aliases:
+- "/post/books/"
 ---
 
 ## So you wanna get your learn on huh?
