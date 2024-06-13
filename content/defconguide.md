@@ -13,9 +13,11 @@ aliases:
 - "/guide/"
 ---
 <!---** Please note ** This TOC is statically maintained. Please try to keep it up-to-date if you adjust headings. -->
+<details>
+  <summary><h2>* Menu</h2></summary>
 
 - [DEF CON Guide](#def-con-guide)
-- [DEF CON](#def-con)
+- [What is DEF CON](#what-is-def-con)
 - [Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)](#belonging-sometimes-you-feel-like-a-nut-sometimes-you-dont)
 - [Getting Involved and Making New Hacker Friends](#getting-involved-and-making-new-hacker-friends)
   * [Be Inclusive (“Pac Man” Theory)](#be-inclusive-pac-man-theory)
@@ -90,15 +92,19 @@ aliases:
 - [Links](#links)
 - [Document Hackers](#document-hackers)
 
+</details>
+
 # DEF CON Guide
 
-So you’re going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go (or even if you are), you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
+So you’re going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go, or even if you are, you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
 
 DEF CON is huge, and can be very overwhelming at first. With multiple talks at the same time, villages everywhere, workshops here and there, something called "SkyTalks," those people in red shirts who keep directing the thousands of hackers, and everything else going on, it can be a lot to take in! And this is all while the bells, whistles, and lights of the Las Vegas casino that you will grow to love... or hate... are flashing in your face. We hope this guide will help you get the most out of your experience, and perhaps meet some new hacker friends.
 
-# DEF CON
+# What is DEF CON
 
-Also spelled DEFCON, Defcon, Def Con, defcon, etc. You’ve heard the rumors and watched the talks. But what is it really like? It's hacker mecca, and your DEF CON experience is what you make of it. DEF CON is a gathering of hackers, a family reunion, a quest, a destination, an experience. It’s a party. It’s the Hacker Summer Camp main event.
+Also spelled DEFCON, Defcon, Def Con, defcon, etc. You’ve heard the rumors and watched the talks. But what is it really like? It's hacker mecca, and your DEF CON experience is what you make of it. 
+
+DEF CON is a gathering of hackers, a family reunion, a quest, a destination, an experience. It’s a party. It’s the Hacker Summer Camp main event.
 
 # Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)
 
@@ -106,7 +112,9 @@ If you feel like a hacker, or you care about the culture, then you belong.
 
 [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing and it is normal to feel like other people know more, or are smarter than you, or that you are going to be "found out." If you feel this way, don’t worry; many others do too! Remember, if you are hanging with a group of people and you feel like a fraud because they are all super smart, keep in mind that *they chose to have you as a friend.* In other words: **you** belong at DEF CON!
 
-Everyone has something to contribute and something to offer! But, this only works if everyone checks their ego at the door. Be humble, open-minded, and inquisitive. You will quickly discover  there are other people who want to share what they know, who are happy to teach you, and learn from you. Buy a beer for the person next to you; they might turn out to be the best in the world at what they do. But, don’t front and boast about your accomplishments, or even worse, lie about things you've accomplished. What if you found out that you were boasting to the creator of the thing you were boasting about? (It's happened.) As one DEF CON attendee put it: "What I don't know could fill entire libraries, but I know some cool people who help me out when I get jammed up and I'm always happy to help others."
+Everyone has something to contribute and something to offer! But, this only works if everyone checks their ego at the door. Be humble, open-minded, and inquisitive. You will quickly discover there are other people who want to share what they know, who are happy to teach you, and learn from you. 
+
+Buy a beer for the person next to you; they might turn out to be the best in the world at what they do. But, don’t front and boast about your accomplishments, or even worse, lie about things you've accomplished. What if you found out that you were boasting to the creator of the thing you were boasting about? (It's happened.) As one DEF CON attendee put it: "What I don't know could fill entire libraries, but I know some cool people who help me out when I get jammed up and I'm always happy to help others."
 
 If you look at the DEF CON crowd and don’t feel like they look like you or worry that you won’t fit in, don’t let yourself feel intimidated or hold yourself back! Hacker culture is unique and diverse and not defined by physical appearances. Almost no one you meet at DEF CON judges others in this way or cares how you present yourself. We care more about your ideas and how you play with others! If you give your fellow hackers a chance, no matter who they are or what they look like, you’ll almost always discover that they are curious and interesting human beings with a lot of common ground and knowledge to offer.
 
@@ -114,9 +122,13 @@ However, people can be jerks (and [muggles](https://www.urbandictionary.com/defi
 
 # Getting Involved and Making New Hacker Friends
 
-**Get involved!** Some of the best connections and opportunities occur spontaneously everywhere and anywhere through the interactions with the people around you. Whatever you do, don’t hide quietly behind your laptop. (But if you do, we get it. Just realize if you’re behind a screen, you won’t really meet folks.) Walk around, when find something that looks interesting start talking to the people who are there doing it. Or, start doing something interesting in a public area and invite others to join you! Most people you meet at DEF CON will be happy to share what they love with someone else who is interested. Be open and honest about what you know and don’t be afraid to jump right in if something looks like your thing.
+**Get involved!** Some of the best connections and opportunities occur spontaneously everywhere and anywhere through the interactions with the people around you. Whatever you do, don’t hide quietly behind your laptop. (But if you do, we get it. Just realize if you’re behind a screen, you won’t really meet folks.) 
 
-Making friends at Hacker Summer Camp can be hard if you don’t know anyone and/or are super shy, but leaving the con with a pile of hacker buddies will make your DEF CON experience that much richer. If you’re introverted, this can be difficult, but pushing yourself to leave your shell is worth it! Remember that all humans basically want the same things (and want to be accepted). Find some friendly looking people, walk up to them, introduce yourself, and join the conversation! They'll probably welcome you as a new friend and might even have been too anxious themselves to do what you just did. To make it more natural, bring some stickers, candy, or something small that you can keep a lot of easily, to share with people. Having sealed alcohol to hand out is an easy way to make friends when waiting in some of the long lines!
+Walk around, when find something that looks interesting start talking to the people who are there doing it. Or, start doing something interesting in a public area and invite others to join you! Most people you meet at DEF CON will be happy to share what they love with someone else who is interested. Be open and honest about what you know and don’t be afraid to jump right in if something looks like your thing.
+
+Making friends at Hacker Summer Camp can be hard if you don’t know anyone and/or are super shy, but leaving the con with a pile of hacker buddies will make your DEF CON experience that much richer. If you’re introverted, this can be difficult, but pushing yourself to leave your shell is worth it! Remember that all humans basically want the same things, and want to be accepted. 
+
+Find some friendly looking people, walk up to them, introduce yourself, and join the conversation! They'll probably welcome you as a new friend and might even have been too anxious themselves to do what you just did. To make it more natural, bring some stickers, candy, or something small that you can keep a lot of easily, to share with people. Having sealed alcohol to hand out is an easy way to make friends when waiting in some of the long lines!
 
 Sharing is a quick way to make friends, and helping people is another great way to meet people. See a goon carrying too much shit? Offer to help. See village staff overwhelmed and working through lunch?  Bring ‘em a snack and ask how you can help. See a group of people working on something? Ask what they're up to and if they would like any help.
 
@@ -128,7 +140,7 @@ When standing in a group of people, always leave room for a new person to join y
 
 # Transportation
 
-There are two ways to get to Las Vegas: By car or by plane. The flights to Las Vegas are usually cheap enough that you don’t need to drive (SouthWest often has cheap direct flights). Drive if you want to make travel in an *experience,* but remember that you have to drive **back** too -- and you will be exhausted and possibly sick.
+There are two ways to get to Las Vegas: By car or by plane. The flights to Las Vegas are usually cheap enough that you don’t need to drive. SouthWest often has cheap direct flights. Drive if you want to make travel in an *experience,* but remember that you have to drive **back** too -- and you will be exhausted and possibly sick.
 
 Book flights early. Depending on whether you’re going to BlackHat/BSidesLV, you’ll need to arrive extra early. If you’re just doing DEF CON, you should still try to fly in on Wednesday, because people like to get an early start to the festivities. Don’t leave on Sunday unless you have to. The best conversations happen late Sunday night, and the airport is much less chaotic on Monday.
 
@@ -159,7 +171,7 @@ Attend the TravelCon party (check [@defconparties](https://twitter.com/defconpar
 
 It’s advisable to stay as close to the con as possible. Stay at a con hotel if you want to be super close to the action and not have to take a cab/Lyft/Uber at the end of the day back to your room. Beware though, you might have to wait forever for an elevator to go up/down to your room, especially if you booked near popular shit.
 
-Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, ask for a DEF CON hotel key when you check in (if you want one). These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. 
+Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, you may ask for a DEF CON hotel key when you check in. These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. 
 
 Official DEF CON hotels usually carry DEF CON TV, which allows you to watch DEF CON talks from your room, but note that since the move away from Caesar's properties, there's no certainty that DEF CON TV will continue to be available in the hotels associated with DEF CON.
 
@@ -169,7 +181,7 @@ It's also worth noting that most Las Vegas hotels have a daily "resort tax" that
 
 #### Hotel Room Hax
 
-For all the DEF CON folks staying in Caesar's Properties: the VIP override for the Honeywell thermostat in your room (which disables room occupancy sensor and lowers min temp setting) is:
+For all the DEF CON folks staying in Caesar's Properties: to activate the VIP override for the Honeywell thermostat in your room, which disables room occupancy sensor and lowers min temp setting:
 
 - While holding down "display:"
   * Press "off"
@@ -189,7 +201,7 @@ So, you’ve got your heavy-ass laptop strapped to your back, your $19 coffee in
 
 DEF CON now has [pre-registration](https://shop.defcon.org/products/def-con-32-las-vegas-convention-center), and you can buy your badge early, but if you plan on doing [LineCon](#linecon), payment is **CASH ONLY**~~. Your registration grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically made available online, just after the event.
 
-Most attendees (and probably you) receive Human badges. Other attendees will have different looking badges that signify their distinct role or job at DEF CON. Of particular note:
+Most attendees receive Human badges. Other attendees will have different looking badges that signify their distinct role or job at DEF CON. Of particular note:
 
 * Goon badges are red and are worn by Goons, who are members of DEF CON staff. Goons have a tough job and deal with a lot of people, so please pay attention to their instructions and heed them!
 * Black Badges are awarded at the end of DEF CON for significant achievement in certain events. They are rare honors and they grant free lifetime admission to DEF CON for recipients.
@@ -212,13 +224,13 @@ Casinos are built to keep you walking in circles. It’s perpetual twilight indo
 
 Official swag sells out **FAST**. If you don’t purchase your official swag Thursday morning, there’s a good chance you won’t find much left. Bring extra cash for after getting your badge, and plan to buy swag immediately, if you want any.
 
-Vendor Area swag will sell out throughout the con, so again, buying earlier is better. The vendor area has a diverse set of products, ranging from lock picking kits, to t-shirts in every shade of black, to certain WiFi tropical fruits, to [censored], and many other things you’ll wish you had twice as much cash on hand for. (**Bring LOTS of cash. Seriously.**)
+Vendor Area swag will sell out throughout the con, so again, buying earlier is better. The vendor area has a diverse set of products, ranging from lock picking kits, to t-shirts in every shade of black, to certain WiFi tropical fruits, to [censored], and many other things you’ll wish you had twice as much cash on hand for. **Bring LOTS of cash. Seriously.**
 
 ### Tracks/Talks
 
 Talks are organized into tracks, which people line up for. Many talks are very popular, and you may not get into what you want to see. Most talks are also recorded and posted online for free afterwards (... eventually). The talks, while a great part of DEF CON, are also just one of the many things you can do, and many seasoned DEF CON attendees do not prioritize going to talks.
 
-When entering the room where a talk/track is being held, you'll likely notice that the room is nearing capacity quickly. Please take a seat immediately beside another person, and fill the room from front (stage) to back. If it becomes obvious that the room isn't going to be completely full, this can be disregarded, but many talks will be full.
+When entering the room where a talk/track is being held, you'll likely notice that the room is nearing capacity quickly. Please take a seat immediately beside another person, and fill the room from front to back. If it becomes obvious that the room isn't going to be completely full, this can be disregarded, but many talks will be full.
 
 Speaking of full talks: if there is a talk that you absolutely must attend, ensure that you're standing outside of the room with plenty of time before the talk is scheduled to begin; there is usually a line to get in. Completing one talk and then running to catch the next talk will just lead to frustration. 
 
@@ -228,7 +240,7 @@ If you couldn't get into a talk, or you hate crowds and don't want to line up fo
 
 ### DC101
 
-DC101 is a talk track aimed at newbies with less technical and community knowledge (not necessarily those new to DEF CON). It’s a recentish addition to the con and has a lot of info that's especially helpful for newcomers to the dysfunctionally beautiful DEF CON family. (Thank you Daddy HighWiz.)
+DC101 is a talk track aimed at newbies with less technical and community knowledge, not necessarily those new to DEF CON. It’s a recentish addition to the con and has a lot of info that's especially helpful for newcomers to the dysfunctionally beautiful DEF CON family. (Thank you Daddy HighWiz.)
 
 ### Villages
 
@@ -250,7 +262,7 @@ Call for Papers/Presentations. This is the process for how talks, workshops, etc
 
 ### SkyTalks
 
-[SkyTalks](https://skytalks.info/) is where more sensitive content is presented, and as of 2024, they have moved to BSidesLV, so if you want to visit make sure you get a ticket. Whatever you do, don’t try to record anything in there.  _When_ you’re discovered you *will* be kicked out, most likely you will have your recording device destroyed, and you will be shamed by everyone in attendance. SkyTalks is popular, so get in line early (maybe "a talk early" early). In the past, badges have been sold that allow you to remain in the room and the proceeds support SkyTalks.
+[SkyTalks](https://skytalks.info/) is where more sensitive content is presented, and as of 2024, they have moved to BSidesLV, so if you want to visit make sure you get a ticket. Whatever you do, don’t try to record anything in there.  _When_ you’re discovered you *will* be kicked out, most likely you will have your recording device destroyed, and you will be shamed by everyone in attendance. SkyTalks is popular, so get in line early, maybe "a talk early" early. In the past, badges have been sold that allow you to remain in the room and the proceeds support SkyTalks.
 
 If you want to go to a SkyTalk, and a mainline DC talk that are scheduled at the same time, go to the SkyTalk. Mainline talks are recorded, and SkyTalks are not.
 
@@ -263,7 +275,9 @@ DEF CON is all about the parties and there’s always going to be a ton. See [Pa
 You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
 
 #### Getting Your Drinks
-Many people in Vegas are drunk. Most likely many of your fellow hackers will be as well! This is Vegas and DEF CON -- you never need to directly pay for a drink. If you are unable to get a drink from one of the many vendors or parties around, there is always the cocktail waitresses. If you act as though you are actively gambling, or actually gamble, provide a tip and you can ensure a constant stream of drinks (or just grab your one and go). The trick here is too look like you have been sitting their for a while. It's a good way to kill a little time and rest your feet!
+Many people in Vegas are drunk. Most likely many of your fellow hackers will be as well! This is Vegas and DEF CON -- you never need to directly pay for a drink. If you are unable to get a drink from one of the many vendors or parties around, there is always the cocktail waitresses. 
+
+If you act as though you are actively gambling, or actually gamble, provide a tip and you can ensure a constant stream of drinks (or just grab your one and go). The trick here is too look like you have been sitting their for a while. It's a good way to kill a little time and rest your feet!
 
 # Con Life
 
@@ -276,25 +290,29 @@ These are minimums per day:
 * 2 meals
 * 1 shower (**take a fucking shower and wear deodorant**)
 
-We encourage you to get (far) more than these minimums when appropriate. If you know you aren't capable of functioning well on less than 6 hours of sleep, then make sure you get 6 hours of sleep. Don't ruin a day at DEF CON by being so tired you can't think or talk.
+We encourage you to get far more than these minimums when appropriate. If you know you aren't capable of functioning well on less than 6 hours of sleep, then make sure you get 6 hours of sleep. Don't ruin a day at DEF CON by being so tired you can't think or talk.
 
 ### Handles
 
 As Magneto said to "John/Pyro" in X-Men 2, "What's your real name?"
 
-Your handle is your (mostly) unique name within the hacker community that allows you to be quickly and easily identified. There may be hundreds (or even thousands) of "Mike's" at DEF CON, but not nearly as many Wiseacres or Anch's.
+Your handle is your (mostly) unique name within the hacker community that allows you to be quickly and easily identified. There may be hundreds, or even thousands of "Mike's" at DEF CON, but not nearly as many Wiseacres or Anch's.
 
 Many people at DEF CON choose to use a handle instead of their real name to identify themselves. Don’t be an asshole, and respect someone’s choices no matter what they choose to call themselves. All kinds come to DEF CON, so to allow yourself to be easily identified, and to protect your own identity, you may also choose to use a handle, whether it’s one you already have or a new one that you create. Remember, respect others choices and everyone will have a good time.
 
 ### Goons (Those Cool People in Red, Often Confused with Deadpool)
 
-Goons are DEF CON staff members (who work for many different departments) whose job it is to keep everyone safe, answer questions, and help the entire con run smoothly. Pay attention to staff in clearly marked shirts and listen to their directions for your and everyone else’s safety and joy. Go where they say, and move when they need you to move. It’s not an easy job screaming over 35 thousand people! Give them beers and Gatorades and make new friends.
+Goons are DEF CON staff members who work for many different departments, whose job it is to keep everyone safe, answer questions, and help the entire con run smoothly. 
+
+Pay attention to staff in clearly marked shirts and listen to their directions for your and everyone else’s safety and joy. Go where they say, and move when they need you to move. It’s not an easy job screaming over 35 thousand people! Give them beers and Gatorades and make new friends.
 
 ### $$$$ aka MONEY
 
 Bring money (USD cash). More money (cash) than you think. OK, now bring just a little more cash. Keep going. Everything costs more than it should/you think it will in Vegas.
 
-ATM fees are on the higher side and can add up pretty quickly. Fake ATMs were once a thing, but you’re now more likely to have someone shoulder surf your account info than haxor the ATM. Casino security is a real thing, and they will F you up, so don’t try anything stupid. Jail isn’t cool. That said, some folks still prefer to use ATMs that are away from the con space.
+ATM fees are on the higher side and can add up pretty quickly. Fake ATMs were once a thing, but you’re now more likely to have someone shoulder surf your account info than haxor the ATM. 
+
+Casino security is a real thing, and they will F you up, so don’t try anything stupid. Jail isn’t cool. That said, some folks still prefer to use ATMs that are away from the con space.
 
 #### High Level Planning Guide for How Much $$$$ to Bring
 
@@ -318,7 +336,7 @@ There are plenty of ways to spend far more money than these examples, but that d
 
 ### Pack Light, Have Comfortable Shoes
 
-You (probably) don’t need all your shit. If you want to bring a laptop and a soldering iron, cool, but leave it in your room. Trust me, you’re not going to use your laptop, and carrying it all day is going to wreck your back. (That said, plenty of people carry a backpack everywhere, and there are lounge areas where lots of people can be found hacking away on their laptops.)
+You probably don’t need all your shit. If you want to bring a laptop and a soldering iron, cool, but leave it in your room. Trust me, you’re not going to use your laptop, and carrying it all day is going to wreck your back. That said, plenty of people carry a backpack everywhere, and there are lounge areas where lots of people can be found hacking away on their laptops.
 
 Wear comfortable shoes since you’ll be walking a lot, but break in those shoes **before** DEF CON. Seriously. You don’t want to be limping around because you avoided getting your new kicks dirty and broke your feet instead.
 
@@ -336,7 +354,7 @@ You might want a lightweight backpack or purse/messenger bag for all the stuff a
 
 ### Medical Supplies/Medicine
 
-It’s helpful to have medicine on you (or at least in your hotel room) so you don’t have to constantly make pharmacy runs. Having a first-aid kit on you is useful and can save lives too!
+It’s helpful to have medicine on you, or at least in your hotel room, so you don’t have to constantly make pharmacy runs. Having a first-aid kit on you is useful and can save lives too!
 
 Good-to-haves:
 
@@ -365,15 +383,17 @@ Be a hero:
 
 ### Badge Life/Indie Badges
 
-Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. (Take the batteries out of your DC26 badges though, unless you like battery acid on your shirt.) These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch Twitter [#badgelife](https://twitter.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/htmlview). Save your lunch money as it’s an expensive habit.
+Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch Twitter [#badgelife](https://twitter.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/htmlview). Save your lunch money as it’s an expensive habit.
 
 ### Con Flu
 
-Because of all the socializing and partying you will be doing without much sleeping, chances are > 0 that you will catch Con Flu/Con Crud. To avoid this, remember to stay hydrated and get more than 3 hours of sleep per night. Eat some vegetables and fruits. (Olives in a martini or the OJ in a mimosa don't count.) Also, take a good multivitamin including zinc, and avoid mouth to mouth contact with dozens of hackers/their drinks/foods. Fist bumps over handshakes can help prevent transmitting con crud microorganisms. Hand sanitizer isn’t a bad idea either. Wash your hands, and when you do, really scrub the hell out of those fuckers so they get fucking clean. Sing a song if you must, just don’t spread your shit around. Literally.
+Because of all the socializing and partying you will be doing without much sleeping, chances are > 0 that you will catch Con Flu/Con Crud. To avoid this, remember to stay hydrated and get more than 3 hours of sleep per night. Eat some vegetables and fruits, olives in a martini or the OJ in a mimosa don't count. Also, take a good multivitamin including zinc, and avoid mouth to mouth contact with dozens of hackers/their drinks/foods. Fist bumps over handshakes can help prevent transmitting con crud microorganisms. Hand sanitizer isn’t a bad idea either. Wash your hands, and when you do, really scrub the hell out of those fuckers so they get fucking clean. Sing a song if you must, just don’t spread your shit around. Literally.
 
 ### Bathrooms
 
-People using the men’s room will experience uncharacteristic lines. People using the women’s room will notice unusual emptiness. Don’t be an asshole, but no one can tell you how you identify though. Don’t ignore your body’s nature time. Take a shit or piss when needed. If you haven't needed to do either for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please don't be a scumbag who pisses or shits all over the floor. Particularly in a handicap-accessible area; DEF CON strives to be accessible to everyone.
+People using the men’s room will experience uncharacteristic lines. People using the women’s room will notice unusual emptiness. Don’t be an asshole, but no one can tell you how you identify though. 
+
+Don’t ignore your body’s nature time. Take a shit or piss when needed. If you haven't needed to do either for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please don't be a scumbag who pisses or shits all over the floor. Particularly in a handicap-accessible area; DEF CON strives to be accessible to everyone.
 
 ### Shenanigans
 
@@ -381,7 +401,9 @@ Sometimes shenanigans allegedly occur. What happens in Vegas stays in Vegas. Exc
 
 ### Collectible/Swag
 
-Many people enjoy giving away/selling/trading things at DEF CON that they make to commemorate the event, their groups, etc. -- stickers, vinyl, poker chips, t-shirts, and so on. Just like Pokemon, collect em all. Hell, get a few extras. There is also [Sticker Swap](https://twitter.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including beer, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
+Many people enjoy giving away/selling/trading things at DEF CON that they make to commemorate the event, their groups, etc. -- stickers, vinyl, poker chips, t-shirts, and so on. Just like Pokemon, collect em all. Hell, get a few extras. 
+
+There is also [Sticker Swap](https://twitter.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including beer, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
 
 #### Challenge Coins
 
@@ -421,7 +443,11 @@ Cool hackers join the [Lonely Hackers Club.](https://lonelyhackers.club)
 
 # Security/Privacy
 
-Many kinds of people come to DEF CON, and most are very cool, but some are not. Furthermore, many hackers practice Social Engineering and other human hacking skills. Being paranoid is not uncalled for. It’s a great opportunity to practice not sharing or not being 100% upfront and honest with everything all the time with everyone. Any electronics that you bring should be up to date, physically controlled at all times, and connected to as little as possible. Physical security and locking things up well still goes a long way.
+Many kinds of people come to DEF CON, and most are very cool, but some are not. Furthermore, many hackers practice Social Engineering and other human hacking skills. 
+
+Being paranoid is not uncalled for. It’s a great opportunity to practice not sharing or not being 100% upfront and honest with everything all the time with everyone. 
+
+Any electronics that you bring should be up to date, physically controlled at all times, and connected to as little as possible. Physical security and locking things up well still goes a long way.
 
 ### Photos/Videos
 
@@ -441,10 +467,10 @@ Don’t take photos/videos of anyone without their permission. Don’t take phot
 
 #### WiFi
 
-* DEF CON's official secured WiFi, in the con space, when configured according to official DEF CON instructions, should be fine. (The official secured wifi requires enrollment and certificate issuance/installation. There will be a how-to released, closer to DEF CON. Following those instructions will (theoretically) prevent imposter APs from decrypting your traffic.)
+* DEF CON's official secured WiFi, in the con space, when configured according to official DEF CON instructions, should be fine. The official secured wifi requires enrollment and certificate issuance/installation. There will be a how-to released closer to DEF CON. Following those instructions will (theoretically) prevent imposter APs from decrypting your traffic.
 * Be cautious at all times, particularly of fake/duplicate network names.
 * Avoid WiFi that isn’t specifically yours. Join only encrypted networks that you personally know are safe.
-* Use a paid VPN. Configure it to automatically connect, and (if possible) prevent traffic from leaving your box unless it crosses that VPN. Don’t bareback any WiFi (or cellular data, say some hackers) unless you have good reason.
+* Use a paid VPN. Configure it to automatically connect, and if possible, prevent traffic from leaving your box unless it crosses that VPN. Don’t bareback any WiFi (or cellular data, say some hackers) unless you have good reason.
 
 #### Burner Devices
 
@@ -452,11 +478,15 @@ Only you know your threat profile. However, it’s pretty unlikely that you need
 
 Leave your laptop off and in your room, and leave your phone off or in airplane mode when you’re not using it. Practice good overall digital hygiene and OPSEC and you’ll be fine.
 
-If you still feel the need, and you want a semi-free way to procure a nice burner laptop, you could try "purchasing" one from Costco (they have an amazing return policy), and returning it after the con. Of course, you might want to hang onto that sweet Kali box, and so you can also find many inexpensive used laptops on eBay. Speaking of Kali: do not run any distro off-the-shelf, even Kali, and expect it to be hardened/secured. Understand your threat model *and* how your tools protect you.
+If you still feel the need, and you want a semi-free way to procure a nice burner laptop, you could try "purchasing" one from Costco, as they have an amazing return policy, and returning it after the con. 
+
+Of course, you might want to hang onto that sweet Kali box, and so you can also find many inexpensive used laptops on eBay. Speaking of Kali: do not run any distro off-the-shelf, even Kali, and expect it to be hardened/secured. Understand your threat model *and* how your tools protect you.
 
 #### Theft
 
-This should go unsaid, but if you're bringing a device with you that has any data on it that you care about, make sure you have backups that you leave at home. You don't need to spend your every waking moment worried about your stuff getting stolen (it's unlikely), but you do need to have a plan for how to recover if it happens. This applies to phones, laptops, IDs, whatever. Do you know who you'd call (at what number) for help if you somehow managed to lose your phone and wallet? Be prepared when you travel, whether it's for DEF CON or for any other reason. (Some of us make a paper copy of one ID/credit card, write the phone number of the person(s) we'd need to call in emergency on the paper, and hide it in a bag or luggage that will stay in your hotel room.)
+This should go unsaid, but if you're bringing a device with you that has any data on it that you care about, make sure you have backups that you leave at home. You don't need to spend your every waking moment worried about your stuff getting stolen, as it's unlikely to happen, but you do need to have a plan for how to recover if it happens. This applies to phones, laptops, IDs, whatever. 
+
+Do you know who you'd call for help if you somehow managed to lose your phone and wallet? Be prepared when you travel, whether it's for DEF CON or for any other reason. Some of us make a paper copy of one ID/credit card, write the phone number of the person(s) we'd need to call in emergency on the paper, and hide it in a bag or luggage that will stay in your hotel room.
 
 ### Room Security/Privacy
 
@@ -476,11 +506,11 @@ In general, practice basic personal safety and situational awareness. Be aware o
 
 DEF CON attendees are as diverse as their places of business, and for a variety of reasons, including personal comfort, security clearances, legal agreements, etc., people may be more or less comfortable about sharing where they work. In general, consider being cautious about being too open about your own place of employment. And, leave it up to others to say where they work, if they feel comfortable.
 
-Everyone who comes to DEF CON deserves to enjoy themselves and have a safe and fun experience. If you are being harassed or attacked or made to feel unsafe by anyone while attending DEF CON, find a Goon or a DEF CON staff member (or a police officer or casino staff/security officer). You can also call  **+1 (725) 222-0934** (DEF CON Support) or email `safety@defcon.org` for help.
+Everyone who comes to DEF CON deserves to enjoy themselves and have a safe and fun experience. If you are being harassed or attacked or made to feel unsafe by anyone while attending DEF CON, find a Goon, a DEF CON staff member, or a police officer or casino staff/security officer. You can also call  **+1 (725) 222-0934** (DEF CON Support) or email `safety@defcon.org` for help.
 
 If you’re feeling anxious about your safety, check out the [Transparency Report](https://www.defcon.org/html/links/dc-transparency.html). DEF CON is generally a very safe, fun, and welcoming event for everyone involved, but it’s a great idea to be aware of the available resources in case you, or someone else, needs them.
 
-For lack of a better section to put this in: consider removing contactless/RFID cards from your person/wallet, unless you actively require them (such as hotel room cards). Scanning/duplicating cards is a thing.
+For lack of a better section to put this in: consider removing contactless/RFID cards from your person/wallet, unless you actively require them, such as hotel room cards. Scanning/duplicating cards is a thing.
 
 ### Bring a Battle Buddy
 <!--This section is already alluded to in the Personal Sec section, should look at integrating-->
@@ -490,9 +520,15 @@ Always make sure someone else knows where & who you are going off on an adventur
 
 ### Being Stupid? Don’t
 
-Be only a reasonable, responsible amount of stupid, in a way that doesn’t harm others. Las Vegas offers you wide ranging opportunities to part with your money, but sleeping in a jail cell isn’t cool. The casinos own most of the strip sidewalks, so you can "not publicly" ;) intoxicate yourself. Also, Nevada has legalized marijuana; be aware that casinos and hotels often have policies prohibiting smoking marijuana on their premises. Your mileage may vary. Having fun is neat, but both of these substances/together along with exhaustion and other things in Vegas can impair your ability to control yourself/remember things/resist Social Engineering/not barf in the hotel room sink/make good decisions. In other words, **YOUR CHOICES HAVE CONSEQUENCES.** Balance the amount of fun you have with your personal threat profile, and use the battle buddy system *always.* (Never drink alone!)
+Be only a reasonable, responsible amount of stupid, in a way that doesn’t harm others. Las Vegas offers you wide ranging opportunities to part with your money, but sleeping in a jail cell isn’t cool. The casinos own most of the strip sidewalks, so you can "not publicly" ;) intoxicate yourself.
 
-Hacking is cool, committing crimes is not. Know about US computer crime laws! Do not hack anything that you do not have permission to hack. Do not disgrace your hacker family by committing crimes and smearing the excellent DEF CON name. **Do not fuck with/attack/go "back of house"/hack the casinos!** DEF CON wants to come back next year. You not being shitty allows for our future shenanigans.
+Also, Nevada has legalized marijuana; be aware that casinos and hotels often have policies prohibiting smoking marijuana on their premises. Your mileage may vary.
+
+Having fun is neat, but both of these substances/together along with exhaustion and other things in Vegas can impair your ability to control yourself/remember things/resist Social Engineering/not barf in the hotel room sink/make good decisions. In other words, **YOUR CHOICES HAVE CONSEQUENCES.** Balance the amount of fun you have with your personal threat profile, and use the battle buddy system *always.* Never drink alone!
+
+Hacking is cool, committing crimes is not. Know about US computer crime laws! Do not hack anything that you do not have permission to hack. Do not disgrace your hacker family by committing crimes and smearing the excellent DEF CON name. 
+
+**Do not fuck with/attack/go "back of house"/hack the casinos!** DEF CON wants to come back next year. You not being shitty allows for our future shenanigans.
 
 # Surviving Las Vegas/What to Bring
 
@@ -520,50 +556,59 @@ You will be walking a metric fuckload. Blisters are highly likely. Dry feet are 
 
 Las Vegas is located on the surface of the Sun, AKA Nevada. You need to stay hydrated (no, Bud Light, despite being close to water, doesn’t count). Water and electrolytes (insert Brawndo joke here) will save you from a trip to the ER. Dehydration is no joke -- it’s painful and if severe enough can lead to death. Death is bad. People will miss you.
 
-Water in Las Vegas costs a ridiculous amount, so carry a refillable bottle or water bladder system (CamelBak, Source, etc.) with you. Stainless steel and glass bottles are available if you are concerned about BPAs and shit (and although you should be, during DEF CON you should be more concerned about your wallet and your liver). You can gauge hydration level by the color of your urine. If it’s clear to slightly yellow you’re good to go. If it’s darker (like a Pale Ale), drink some damn water, right the hell now. If looks like Guinness or Coca Cola, **seek medical attention immediately**.
+Water in Las Vegas costs a ridiculous amount, so carry a refillable bottle or water bladder system (CamelBak, Source, etc.) with you. Stainless steel and glass bottles are available if you are concerned about BPAs and shit, and although you should be, during DEF CON you should be more concerned about your wallet and your liver. 
 
-If you’re peeing a lot, you should also be aware that you’re losing electrolytes. Drink gatorade or take electrolyte supplements! Keto people take salt tabs, which you can also use. (This is also how you prevent a hangover.) There is a reason they put PediaLyte in the impulse buy section of the CVS. Buy it before you need it so you don’t have to step out to the deathly Las Vegas weather with a hangover.
+You can gauge hydration level by the color of your urine. If it’s clear to slightly yellow you’re good to go. If it’s darker (like a Pale Ale), drink some damn water, right the hell now. If looks like Guinness or Coca Cola, **seek medical attention immediately**.
+
+If you’re peeing a lot, you should also be aware that you’re losing electrolytes. Drink gatorade or take electrolyte supplements! Keto people take salt tabs, which you can also use. This is also how you can prevent a hangover. There is a reason they put PediaLyte in the impulse buy section of the CVS. Buy it before you need it so you don’t have to step out to the deathly Las Vegas weather with a hangover.
 
 As a last resort, there are services (hotel based and external) that will hook you up to an IV in your room to fix your bad decisions. This is pretty sad, honestly.
 
 ### What to Wear
 
-Loose and comfortable clothing in some formulation of top (probably a t-shirt in your favorite shade of black) plus a bottom (shorts, skirts, kilts, whatever) is a good idea. You may want something more flattering for after hours partying and socializing. Cargo shit is ugly but functional for the shit you’ll carry and accumulate throughout the day unless you have a bag of some kind. Jeans and long pants can get pretty hot, but plenty of people wear them anyway. Backpacks and other bags can help you avoid the permanent stigma of being a Cargo Person. Wear loose clothing. I know you want to be 1337 and rock your Doc’s, but try it.... I dare you.
+Loose and comfortable clothing in some formulation of top (probably a t-shirt in your favorite shade of black) plus a bottom (shorts, skirts, kilts, whatever) is a good idea. You may want something more flattering for after hours partying and socializing. Cargo shit is ugly but functional for the shit you’ll carry and accumulate throughout the day unless you have a bag of some kind. Jeans and long pants can get pretty hot, but plenty of people wear them anyway. Backpacks and other bags can help you avoid the permanent stigma of being a Cargo Person. 
+
+Wear loose clothing. I know you want to be 1337 and rock your Doc’s, but try it... I dare you.
 
 #### Ladies and Feminine-Dressing Folks
 
-Vegas is effing hot. Wear something that is comfortable to walk, sit, and sweat in (sundresses, shorts, whatever is your preference), but bring a sweater or a jacket unless you want to freeze inside at the con. For the evenings, you may want to bring something else that is cuter and less practical to change into for the parties, but still wear comfortable shoes.
+Vegas is effing hot. Wear something that is comfortable to walk, sit, and sweat in, like sundresses, shorts, or whatever is your preference, but bring a sweater or a jacket unless you want to freeze inside at the con. For the evenings, you may want to bring something else that is cuter and less practical to change into for the parties, but still wear comfortable shoes.
 
-If you carry a purse, consider swapping your daily carry to something lightweight with a crossbody strap that is big enough to carry a water bottle. Vegas (and the con) is super congested with other tourists, so your giant daily satchel will become a heavy bludgeon (but maybe you want that?) as you try to navigate the crowds and will be a pain in the butt to stow at busy restaurants or at talks.
+If you carry a purse, consider swapping your daily carry to something lightweight with a crossbody strap that is big enough to carry a water bottle. Vegas and the con are super congested with other tourists, so your giant daily satchel will become a heavy bludgeon (but maybe you want that?) as you try to navigate the crowds and will be a pain in the butt to stow at busy restaurants or at talks.
 
 ### Food
 
-Vegas food is expensive, especially on the strip and inside hotels/casinos. Casino/hotel restaurants fill up really fast at all the times that humans like to eat, especially con ones. Eating last minute is probably not going to happen, and being hungry means you’re going to have a bad day. Crafty hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack protein bars, caffeine pills, and snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
+Vegas food is expensive, especially on the strip and inside hotels/casinos. Casino/hotel restaurants fill up really fast at all the times that humans like to eat, especially con ones. Eating last minute is probably not going to happen, and being hungry means you’re going to have a bad day. 
+
+Crafty hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack protein bars, caffeine pills, and snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
 
 If you want to eat at a con casino, particularly during lunch or dinner hours, be sure to eat at an off time, arrive very early, or eat in your room there (if you're staying there). Otherwise, you'll want to eat off premises -- or you'll likely be stuck in a long, long line with a lot of other hungry hackers.
 
 ### Misc Stuff to Bring
 
-You might find that your hotel room has fewer 110v electrical outlets than you'd like (don't use any USB chargers that they might provide). Look at the stuff you're otherwise bringing, and determine how many outlets you'll need. If you don't have enough, bring a short extension cord or power-strip. It would be annoying to arrive in Vegas and not be able to charge all of your stuff as quickly as you want. [Example](https://www.amazon.com/dp/B000FBPP8G/)
+You might find that your hotel room has fewer 110v electrical outlets than you'd like (don't use any USB chargers that they might provide). Look at the stuff you're otherwise bringing, and determine how many outlets you'll need. 
+
+If you don't have enough, bring a short extension cord or power-strip. It would be annoying to arrive in Vegas and not be able to charge all of your stuff as quickly as you want. [Example](https://www.amazon.com/dp/B000FBPP8G/)
 
 It's rare, but an ink pen does still come in useful from time to time. 
 
 ### Transportation
 
 DEF CON requires a LOT of walking. The hotels are enormous; even just walking through two casinos to get to your hotel will take you 15 minutes. Your walks outside in the LV weather will feel like a slow descent into hell. Vegas in August feels like you are dying inside an oven with zerofuckingpercenthumidity. You will get exhausted and want a quick nap or want to drop some stuff off and start wishing your room was closer. You’ll also want to be able to stumble into your room immediately after overdrinking.
-<!--This line needs to get reworked... All the 'ands'.-->
+
 Cabs can get expensive and are very popular, and they may try to drive you to strip clubs and other places. Compare prices to Lyft/Uber to see which one is cheaper. You can also make friends with people who want to go to the same place you do and split the cost. Try to travel at off times, and think in advance of where you need to be, when you need to be there, then give yourself at least the standard margin.
 
 Depending on where you are staying, the Las Vegas monorail might be another option to help you get around. It runs between MGM Grand and SLS.
+
 It operates between 7am and 00:00-03:00 depending on the day. More details can be found [here](https://www.lvmonorail.com/).
 
 #### FroggerCon
 
-Traffic in Vegas is crazy, so don’t die crossing the street while playing FroggerCon. Seriously, look both ways, don’t be drunk, don’t stumble alone, etc. Traffic is crazy. People are everywhere being dumb and drunk and loud and obnoxious. Cars are angry at you. They are made of metal, and you are not.
+Traffic in Vegas is crazy, so don’t die crossing the street while playing FroggerCon. Seriously, look both ways, don’t be drunk, don’t stumble alone, etc. People are everywhere being dumb and drunk and loud and obnoxious. Cars are angry at you. They are made of metal, and you are not.
 
 ### Saving Money
 
-* Organize a trip with friends to a grocery or store on or near the strip ([Costco](https://maps.google.com/maps?q=costco+las+vegas) (which carries good cheap huge bottles of liquor), Walmart, CVS, Walgreens), for bulk supplies and things like booze and bottled water/Gatorade.
+* Organize a trip with friends to a grocery or store on or near the strip for bulk supplies and things like booze and bottled water/Gatorade ([Costco](https://maps.google.com/maps?q=costco+las+vegas) carries good cheap huge bottles of liquor, Walmart, CVS, Walgreens).
 * Split cabs/Ubers/Lyfts *with people you know and trust*.
 * Split rooms *with people you know and trust*.
 * If you’re driving, make food and store it in a cooler instead of eating out.
@@ -577,10 +622,6 @@ If you are considering having things delivered to you (Prime, Shipt, Doordash), 
 # DEF CON Outside of Las Vegas?
 
 What’s this all about?
-
-### DC China
-
-It’s DEF CON in China. Everyone has a different opinion about this.
 
 ### DC Groups
 

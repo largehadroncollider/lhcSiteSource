@@ -13,3 +13,6 @@ enableGitInfo = true
   handle = "LHC"
   github = "largehadroncollider/lhcSiteSource"
   twitter = "L0nelyH4ckers"
+
+[markup.goldmark.renderer]
+  unsafe = true
