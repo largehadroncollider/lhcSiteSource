@@ -9,7 +9,11 @@ layout: single
 The LHC is a loose collective of people interested in hacking. LHC began on /r/defcon as a way for people attending DEF CON 'alone' to meet up with other people.
 
 ### DEF CON Guide
-[Check out our DEF CON guide (especially if you're new!)]({{< relref "post/defconguide" >}})
+#### [Check out our DEF CON guide (especially if you're new!)]({{< relref "defconguide" >}})
+
+&nbsp;
+&nbsp;
+
 
 ### Some useful links
 

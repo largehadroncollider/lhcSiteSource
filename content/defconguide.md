@@ -3,10 +3,14 @@ linktitle: n00b guide
 menu:
   main:
     name: n00b guide
-    weight: 10
+    weight: 40
 title: DEF CON n00b guide
 weight: 01
-draft: false
+type: page
+layout: single
+aliases:
+- "/post/defconguide/"
+- "/guide/"
 ---
 <!---** Please note ** This TOC is statically maintained. Please try to keep it up-to-date if you adjust headings. -->
 
