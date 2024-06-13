@@ -9,4 +9,7 @@ menu:
     weight: 10
 ---
 
-# Don't be an asshole
+# - Don't be an asshole
+
+# - Dont ask us to hack or provide assistance to hack anything for you.
+
