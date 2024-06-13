@@ -20,3 +20,9 @@ target: https://www.redbubble.com/shop/ap/161645784
 ```
 
 This will redirect https://lonelyhackers.club/shop to the LHC shop as well as add a link to in main menu.
+
+## Developing locally
+
+To develop locally, you will need to install Hugo. You can find instructions on how to do that [here](https://gohugo.io/getting-started/installing/)
+
+Once you have Hugo installed, you can run the site locally by running `hugo server` in the root of the repo. This will start a local server at `http://localhost:1313/` where you can see your changes in real time.
