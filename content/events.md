@@ -6,8 +6,15 @@ menu:
     weight: 30
 ---
 
+# Lonely Hacker Club Community Room at DEF CON
+## Friday 9th and Saturday 10th : 10:00am - 6:00pm, Sunday 11th 10:00am - 1:00pm | Location: 208
+
+Our community room comes back this year, now with more activities and fun!
+
+We are working on the schedule but just a little insight: We are planning on doing Resume Reviews again, Name The Noob and Egor’s contest to name a few. Stay tuned for more updates!
+
 # High Roller Con
-## Saturday, August 10th 2024 5:00 – 7:00 pm
+## Saturday, August 10th 2024 5:00pm – 7:00 pm
 
 All the info is on https://highrollercon.com 
 
