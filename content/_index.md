@@ -31,6 +31,8 @@ LHC is an official DEF CON Community this year! 🥳 We've setup an [LHC shop]({
 
 [LHC twitter account](https://x.com/L0nelyH4ckers "Twitter Account")  
 
+[LHC Mastodon account](https://defcon.social/L0nelyH4ckers "Mastodon Account")
+
 [LHC subreddit](https://www.reddit.com/r/largehadroncollider "LHC Subreddit")  
 
 [DEF CON subreddit](https://www.reddit.com/r/defcon "DEF CON Subreddt")  
