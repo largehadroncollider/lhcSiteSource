@@ -18,7 +18,7 @@ Many other people will bring their Meshtastic nodes to DEF CON, and you can use 
 
 To get started with Meshtastic, you will need a few things:
 
-1. Meshtastic device
+## 1. Meshtastic device
 
 You can either build your own device using the open source hardware and software, or you can buy a pre-built device. 
 
@@ -32,23 +32,23 @@ You can buy the devices from online retailers like AliExpress or Amazon.
 
 ***Keep in mind that devices using the original ESP32 are getting deprecated by Meshtastic and may not work with the latest firmware, so we suggest to get a device with an ESP32-S3.***
 
-2. Battery
+## 2. Battery
 
 Depending on the node you choose, you will need a battery to power the device, find a compatible battery that fits your choice of node, 18650 batteries or flat LiPo batteries are common choices.
 
-3. USB cable
+## 3. USB cable
 
 You will need a USB cable to connect the device to your computer to flash the firmware and configure the device.
 
-4. Computer
+## 4. Computer
 
 You will need a computer to flash the firmware and configure the device. The Meshtastic software is compatible with Windows, Mac, and Linux.
 
-5. Phone
+## 5. Phone
 
 You will need a phone to connect to the device and send messages. The Meshtastic app is available for Android and iOS.
 
-6. Better antenna (optional). 
+## 6. Better antenna (optional). 
 
 The stock antennas on the devices are not necessarily great, so you may want to upgrade to a better antenna to improve the range and performance of the device. A tested alternative is DIYMalls 915Mhz 4x antenna pack.
 
