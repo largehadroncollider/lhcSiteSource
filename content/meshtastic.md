@@ -20,18 +20,21 @@ To get started with Meshtastic, you will need a few things:
 
 1. Meshtastic device
 
-You can either build your own device using the open source hardware and software, or you can buy a pre-built device. We recommend the **Heltec Lora V3**, or the **Lilygo T3-S3 or T-Beam Supreme**. 
+You can either build your own device using the open source hardware and software, or you can buy a pre-built device. 
 
-Any board with an **ESP32-S3** and an **SX1262 LoRa radio** should work, check the [Meshtastic Suported Hardware](https://meshtastic.org/docs/hardware/devices/) for other options.
+Any board with an **ESP32-S3** and an **SX1262 LoRa radio** should work, check the [Meshtastic Suported Hardware](https://meshtastic.org/docs/hardware/devices/) for other options. 
+
+On the ESP32-S3 based devices, we recommend the **Heltec Lora V3**, or the **Lilygo T3-S3 or T-Beam Supreme**. On the nRF52 based devices, we recommend the **Lilygo T-Echo**.
+
+The two main differences between ESP32-S3 and nRF52 based devices are nRF52 devices have a longer battery life but lack WiFi.
 
 You can buy the devices from online retailers like AliExpress or Amazon.
 
-***Keep in mind that devices using the original ESP32 are getting deprecated by Meshtastic and may not work with the latest firmware, so we recommend to get a device with an ESP32-S3.***
-
+***Keep in mind that devices using the original ESP32 are getting deprecated by Meshtastic and may not work with the latest firmware, so we suggest to get a device with an ESP32-S3.***
 
 2. Battery
 
-Depending on the node you choose, you will need a battery to power the device, find a compatible battery that fits your needs, 18650 batteries or flat LiPo batteries are common choices.
+Depending on the node you choose, you will need a battery to power the device, find a compatible battery that fits your choice of node, 18650 batteries or flat LiPo batteries are common choices.
 
 3. USB cable
 
@@ -90,4 +93,14 @@ Other options you can configure are Position Settings on your device.
 Once you've joined the Mesh, other nodes around you will be visible in the Nodes section of the app. In the Message section you can send messages to a channel or directly to a node. 
 
 Head to the Primary Channel, and send a message. If there's any other nodes around you, you should see the message being `acknowledged` by other nodes. 
+
+# Add the LHC channel to your node
+
+Since most people will be in the default channel, it may be a little chaotic. You can add a secondary channel to your node.
+
+The parameters are:
+ 
+Channel Name: `lhc`
+Pre-shared Key: `xJZfETN/8tVWLmMjxRCFZQ==`
+Role: `Secondary`
 
