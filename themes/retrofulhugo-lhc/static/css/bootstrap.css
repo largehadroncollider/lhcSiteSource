@@ -1519,7 +1519,7 @@ code, p code {
   background-color: #040404;
   border-radius: 4px;
 	border: 1px solid #000;
-	text-shadow: 0 0 1px #d100b1, 0 -1px 1px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 15px #d100b1, 0 0 25px rgba(209, 0, 177, 0.8);
+	text-shadow: 0 0 1px #d100b1, 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 15px #d100b1, 0 0 25px rgba(209, 0, 177, 0.8);
 }
 
 kbd {
