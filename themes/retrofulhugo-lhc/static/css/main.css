@@ -163,14 +163,14 @@ img.avatar-img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-  left: 50%;
+  left: 45.3%;
   width: 50px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
+  /* margin-left: -60%; */
   width: 130%;
   border-radius: 50%;
-  margin-left: -60%;
   display: inline-block;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
