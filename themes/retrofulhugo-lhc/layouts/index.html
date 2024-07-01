@@ -11,7 +11,7 @@
       <div class="intro-header no-img">
         <div class="container">
           <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-lg-6 col-lg-offset-3">
               <div class="page-heading">
 											<h1>{{.Site.Title}}</h1>
                 {{if .Site.Params.subtitle}}
@@ -28,7 +28,7 @@
 
     <div role="main" class="container">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="col-lg-6 col-lg-offset-3">
           <div class="posts-list">
             {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
             {{ range $pag.Pages }}
