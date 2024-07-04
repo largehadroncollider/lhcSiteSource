@@ -1,9 +1,5 @@
 ---
 linktitle: books
-menu:
-  main: 
-    name: books
-    weight: 50
 title: books
 draft: false
 aliases:
