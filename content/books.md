@@ -1,9 +1,9 @@
 ---
-linktitle: books
-title: books
-draft: false
-aliases:
-- "/post/books/"
+title: "Books"
+menu:
+  main:
+    name: Books
+    weight: 70
 ---
 
 ## So you wanna get your learn on huh?

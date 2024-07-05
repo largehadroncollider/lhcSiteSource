@@ -3,7 +3,7 @@ title: "LHC Events"
 menu:
   main:
     name: Events
-    weight: 30
+    weight: 40
 ---
 
 # Lonely Hacker Club Community Room at DEF CON
