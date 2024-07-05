@@ -4,7 +4,7 @@ type: page
 menu:
   main:
     name: Telegram
-    weight: 20
+    weight: 30
 ---
 
 <div id="x"></div>
