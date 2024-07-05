@@ -4,6 +4,8 @@ menu:
   main:
     name: Books
     weight: 70
+aliases:
+- "/post/books/"
 ---
 
 ## So you wanna get your learn on huh?
