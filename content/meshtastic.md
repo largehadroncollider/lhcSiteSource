@@ -6,8 +6,6 @@ menu:
     weight: 60
 ---
 
-# Meshtastic
-
 ## What's Meshtastic?
 
 Meshtastic is a project that lets you use inexpensive, battery powered, long range radios to send messages and GPS locations between devices in the field. It is a fully open source project that is based on the ESP32 hardware platform. The radios are based on the LoRa radio standard, which is a low power, long range digital radio standard. 
