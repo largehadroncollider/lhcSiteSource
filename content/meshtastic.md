@@ -3,7 +3,7 @@ title: "Meshtastic"
 menu:
   main:
     name: Meshtastic
-    weight: 60
+    weight: 70
 ---
 
 ## What's Meshtastic?
