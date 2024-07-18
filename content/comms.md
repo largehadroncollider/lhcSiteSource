@@ -6,7 +6,9 @@ menu:
     weight: 70
 ---
 
-Lots of RF shenanigans happen at DEF CON. If you're interested in joining in on the fun, make sure you have a radio that can transmit on the frequencies listed below.
+Lots of RF shenanigans happen at DEF CON. If you're interested in joining in on the fun, make sure you have a radio that can transmit on the frequencies listed below. 
+
+If you're looking for a multi-purpose radio, we recommend the Quansheng UV-K5, you can find it on many online retailers like Amazon or AliExpress.
 
 ## Frequencies
 
