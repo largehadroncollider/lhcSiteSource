@@ -6,7 +6,7 @@ menu:
     weight: 40
 ---
 
-# Lonely Hacker Club Community Room at DEF CON
+# Lonely Hackers Club Community Room at DEF CON
 ## Friday 9th and Saturday 10th : 10:00am - 6:00pm, Sunday 11th 10:00am - 1:00pm 
 
 Our community room comes back this year, now with more activities and fun!
@@ -33,7 +33,7 @@ Our community room comes back this year, now with more activities and fun!
 # 🛰️ISSCON🛰️
 ##  Friday, August 9th, 8:15am - 10:30am
 
-Let’s Boop the ISS! Join the Lonely Hacker’s Club for an extraordinary experience where we'll use our ham radios to attempt communication with astronauts aboard the International Space Station! We have tracked the orbital passes of the space station and calculated our best chance. 
+Let’s Boop the ISS! Join the Lonely Hackers Club for an extraordinary experience where we'll use our ham radios to attempt communication with astronauts aboard the International Space Station! We have tracked the orbital passes of the space station and calculated our best chance. 
 
 🌎 Where: **LVCC West Hall Terrace (on Level 3)**
 
