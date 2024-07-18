@@ -38,7 +38,7 @@ Let’s Boop the ISS! Join the Lonely Hacker’s Club for an extraordinary exper
 🌎 Where: **LVCC West Hall Terrace (on Level 3)**
 
 
-# High Roller Con
+# 🎡High Roller Con🎡
 ## Saturday, August 10th 2024 5:00pm – 7:00 pm
 
 All the info is on https://highrollercon.com 
