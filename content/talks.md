@@ -7,10 +7,10 @@ menu:
 ---
 These talks are given by members and friends of the Lonely Hackers Club. 
 
-# Career Campaigns: Re-Specing Your Professional Class for an InfoSec Role [Tabletop RPG Workshop] - Stryker
-## [BsidesLV Workshop] Limited to 15 per session!
-## - Complete Session 1: Tues. Aug 6 from 10:30 - 2:30 PDT at Training Ground Boardroom in Platinum Hotel
-## - Complete Session 2: Weds. Aug 7 from 10:30 - 2:30 PDT at Training Ground Boardroom in Platinum Hotel
+## Career Campaigns: Re-Specing Your Professional Class for an InfoSec Role [Tabletop RPG Workshop] - Stryker
+### [BsidesLV Workshop] Limited to 15 per session!
+### - Complete Session 1: Tues. Aug 6 from 10:30 - 2:30 PDT at Training Ground Boardroom in Platinum Hotel
+### - Complete Session 2: Weds. Aug 7 from 10:30 - 2:30 PDT at Training Ground Boardroom in Platinum Hotel
 
 https://bsideslv.org/speakers#GL8QGZ
 
@@ -28,15 +28,15 @@ I’ll guide participant-players through a modern infosec hiring process RPG tab
 
 In the end, you’ll walk away with concrete research, tools, and techniques to help your next employer properly value and respect your current non-infosec skills and experience in your first infosec role.
 
-# So you wanna know how to make badges - c0ldbru
-## [DEF CON Talk] Fri. Aug. 9 from 4:30 - 5:30 pm PDT at LVCC - L1 - HW2-07-04 (Creator Stage 1)
+## So you wanna know how to make badges - c0ldbru
+### [DEF CON Talk] Fri. Aug. 9 from 4:30 - 5:30 pm PDT at LVCC - L1 - HW2-07-04 (Creator Stage 1)
 
 https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54586
 
 Taking attendees through the full badge making process from ideation to ordering and producing at scale
 
-# Flipping Bits: Your Credentials Are Certainly Mine
-## [Black Hat General Session] Thurs. Aug. 8 from 11:20am-12:00pm PDT at OceansideA, Level 2
+## Flipping Bits: Your Credentials Are Certainly Mine
+### [Black Hat General Session] Thurs. Aug. 8 from 11:20am-12:00pm PDT at OceansideA, Level 2
 
 https://www.blackhat.com/us-24/briefings/schedule/index.html#flipping-bits-your-credentials-are-certainly-mine-40040
 
@@ -50,8 +50,8 @@ This accidental finding paved the path for the tool 'Certainly' a pioneering off
 
 In this session, we will not only revisit and expand on previously published bitflip research from the last decade and reveal its surprising frequency and impact on modern web technology and cloud infrastructure, but also showcase how you too can use 'certainly' in your next red-team engagement and explain the mitigations needed to defend against this kind of non-human generated attacks.
 
-# Rubik's Cube Tactics: How Rotating Resource Strategies Solved Real-World Cyberattacks
-## [Black Hat Sponsored Lunch & Learn] Thurs. Aug. 8 from 1pm - 2pm PDT at Lagoon KL, Level 2
+## Rubik's Cube Tactics: How Rotating Resource Strategies Solved Real-World Cyberattacks
+### [Black Hat Sponsored Lunch & Learn] Thurs. Aug. 8 from 1pm - 2pm PDT at Lagoon KL, Level 2
 
 https://www.blackhat.com/us-24/sponsored-sessions/schedule/index.html#rubiks-cube-tactics-how-rotating-resource-strategies-solved-real-world-cyberattacks-41722
 
