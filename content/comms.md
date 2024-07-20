@@ -18,6 +18,7 @@ If you're looking for a multi-purpose radio, we recommend the Quansheng UV-K5, y
 
 ***★ yOu mUsT bE a LiCeNsEd HaM oPeRaToR tO uSe ThIs FrEqUeNcY***
 
+You can use [this file](/frequencies-chirp.csv) with CHIRP to program your radio. Comes with all frequencies listed above, as well as all FRS and GMRS channels.
 
 ## Meshtastic 
 
