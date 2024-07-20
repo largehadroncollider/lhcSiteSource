@@ -12,8 +12,12 @@ If you're looking for a multi-purpose radio, we recommend the Quansheng UV-K5, y
 
 ## Frequencies
 
-- **462.55 MHz** - FRS Channel 15 - LHC Simplex Frequency, No License Required
-- **146.58 MHz** - HAM CON Simplex Frequency, yOu mUsT bE a LiCeNsEd HaM oPeRaToR tO uSe ThIs FrEqUeNcY
+- **462.550 MHz** - FRS Channel 15 - LHC Simplex Frequency
+- **146.580 MHz** - HAM CON Simplex Frequency ★
+- **445.555 MHz** - HighRollerCon Simplex Frequency ★
+
+***★ yOu mUsT bE a LiCeNsEd HaM oPeRaToR tO uSe ThIs FrEqUeNcY***
+
 
 ## Meshtastic 
 
