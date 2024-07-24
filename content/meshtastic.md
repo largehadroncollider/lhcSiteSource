@@ -60,7 +60,7 @@ Once you have your Meshtastic device, you will need to flash the firmware onto t
 
 If you're using one of the supported ESP32 devices, you can head to the [Meshtastic Flasher](https://flasher.meshtastic.org/), select your board, the version of the firmware you want to flash, and click "Flash". 
 
-We recommend to flash the latest Beta firmware, as the Alpha firmware may not be stable.
+We recommend to flash the latest Beta firmware, as the Alpha firmware may not be stable. **version 2.3.15 beta introduced fixes for large meshes, so we recommend to use this version or newer.**
 
 More info is available on the [Flashing Firmware](https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/) section.
 
