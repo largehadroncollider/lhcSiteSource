@@ -22,7 +22,7 @@ To get started with Meshtastic, you will need a few things:
 
 You can either build your own device using the open source hardware and software, or you can buy a pre-built device. 
 
-Any board with an **ESP32-S3** and an **SX1262 LoRa radio** should work, check the [Meshtastic Suported Hardware](https://meshtastic.org/docs/hardware/devices/) for other options. 
+Any board with an **ESP32-S3** or **nRF52480** and an **SX1262 LoRa radio** should work, check the [Meshtastic Suported Hardware](https://meshtastic.org/docs/hardware/devices/) for other options. 
 
 On the ESP32-S3 based devices, we recommend the **Heltec Lora V3**, or the **Lilygo T3-S3 or T-Beam Supreme**. On the nRF52 based devices, we recommend the **Lilygo T-Echo**.
 
@@ -60,9 +60,9 @@ Once you have your Meshtastic device, you will need to flash the firmware onto t
 
 If you're using one of the supported ESP32 devices, you can head to the [Meshtastic Flasher](https://flasher.meshtastic.org/), select your board, the version of the firmware you want to flash, and click "Flash". 
 
-We recommend to flash the latest Beta firmware, as the Alpha firmware may not be stable. **version 2.3.15 beta introduced fixes for large meshes, so we recommend to use this version or newer.**
+We recommend to **version 2.4.0 alpha or newer*** as they introduced fixes for large meshes.
 
-More info is available on the [Flashing Firmware](https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/) section.
+More info is available on the [Flashing Firmware](https://meshtastic.org/docs/getting-started/flashing-firmware/) section.
 
 After flashing the firmware, you will need to configure the device to connect to the Meshtastic network. You can do this using the Meshtastic app on your phone, or by connecting to the device using a web browser.
 
