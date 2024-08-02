@@ -18,11 +18,11 @@ If you don't want to flash your firmware and just want to change the channel, yo
 
 ### QR Code for Default LongFast Mesh + LHC Channel, Use before DEF CON
 
-<img src="/qr-code-default.png" width="200" height="200" alt="Meshtastic QR Code for Default LongFast" />
+<img src="/qr-code-default.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
 ### QR Code for DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
 
-<img src="/qr-code-defcon-mesh.png" width="200" height="200" alt="Meshtastic QR Code for Default LongFast" />
+<img src="/qr-code-defcon-mesh.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
 ## What's Meshtastic?
 
