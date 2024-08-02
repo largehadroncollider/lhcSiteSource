@@ -6,6 +6,24 @@ menu:
     weight: 70
 ---
 
+## TL;DR: Updates August 2 2024
+
+Meshtastic released a proposed configuration for the DEF CON Mesh, which includes a new channel default, `DEFCONnect` with a PSK, running on the ShortFast preset. 
+
+It's assumed that due to the amount of nodes, the ShortFast preset will be more efficient for the network. We also expect that LongFast will get congested.
+
+They also released a specific firmware version for DEF CON, which comes preset with the `DEFCONnect` channel. It also includes a few other cosmetic changes. This firmware is available on the [DEF CON Meshtastic Flasher](https://defcon.meshtastic.org/). 
+
+If you don't want to flash your firmware and just want to change the channel, you can use the QR code below to change your channel between the default and the DEFCONnect channel.
+
+### QR Code for Default LongFast Mesh + LHC Channel, Use before DEF CON
+
+<img src="/qr-code-default.png" width="200" height="200" alt="Meshtastic QR Code for Default LongFast" />
+
+### QR Code for DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
+
+<img src="/qr-code-defcon-mesh.png" width="200" height="200" alt="Meshtastic QR Code for Default LongFast" />
+
 ## What's Meshtastic?
 
 Meshtastic is a project that lets you use inexpensive, battery powered, long range radios to send messages and GPS locations between devices in the field. It is a fully open source project that is based on the ESP32 hardware platform. The radios are based on the LoRa radio standard, which is a low power, long range digital radio standard. 

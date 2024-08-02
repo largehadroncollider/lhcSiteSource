@@ -6,7 +6,7 @@ menu:
     weight: 40
 ---
 
-# Lonely Hackers Club Community Room at DEF CON
+# Lonely Hackers Club Community Room at DEF CON 🏢 
 ## Friday 9th and Saturday 10th : 10:00am - 6:00pm, Sunday 11th 10:00am - 1:00pm 
 
 Our community room comes back this year, now with more activities and fun!
@@ -27,7 +27,7 @@ Our community room comes back this year, now with more activities and fun!
 
 Join us for the LHC Meetup at DEF CON, an exciting gathering for LHC members and all early attendees of DEF CON. This meetup is the perfect opportunity to connect, network, and enjoy the company of fellow enthusiasts.
 
-🌎 Where: **Beer Park, Paris Hotel**
+🌎 Where: **Beer Park, Paris Hotel https://www.beerpark.com**
 
 # 🐟SUSHICON🐟
 ## Thursday, August 8th, from 8-10ish pm
