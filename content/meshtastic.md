@@ -20,13 +20,13 @@ If you don't want to flash your firmware and just want to change the channel, yo
 
 <img src="/qr-code-default.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
-![Meshtastic config for Default LongFast Mesh + LHC Channel](https://meshtastic.org/e/#CgcSAQE6AgggChcSEMSWXxEzf_LVVi5jI8UQhWUaA2xoYxIMCAE4AUADSAFQHmgB)
+[Meshtastic config for Default LongFast Mesh + LHC Channel](https://meshtastic.org/e/#CgcSAQE6AgggChcSEMSWXxEzf_LVVi5jI8UQhWUaA2xoYxIMCAE4AUADSAFQHmgB)
 
 ### QR Code for DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
 
 <img src="/qr-code-defcon-mesh.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
-![Meshtastic config for DEFCONnect ShortFast Mesh + LHC Channel](https://meshtastic.org/e/#CjISIDhLvMAdwCLRgb82uGEh4fuWty5Vv3Qifp1q-0jWTLGhGgpERUZDT05uZWN0OgIIDQoXEhDEll8RM3_y1VYuYyPFEIVlGgNsaGMSEQgBEAY4AUADSAFQHmgBwAYB)
+[Meshtastic config for DEFCONnect ShortFast Mesh + LHC Channel](https://meshtastic.org/e/#CjISIDhLvMAdwCLRgb82uGEh4fuWty5Vv3Qifp1q-0jWTLGhGgpERUZDT05uZWN0OgIIDQoXEhDEll8RM3_y1VYuYyPFEIVlGgNsaGMSEQgBEAY4AUADSAFQHmgBwAYB)
 
 ## Add the LHC channel to your node
 
