@@ -16,13 +16,13 @@ They also released a specific firmware version for DEF CON, which comes preset w
 
 If you don't want to flash your firmware and just want to change the channel, you can use the QR code below to change your channel between the default and the DEFCONnect channel.
 
-### QR Code for Default LongFast Mesh + LHC Channel, Use before DEF CON
+### Default LongFast Mesh + LHC Channel, Use before DEF CON
 
 <img src="/qr-code-default.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
 [Meshtastic config for Default LongFast Mesh + LHC Channel](https://meshtastic.org/e/#CgcSAQE6AgggChcSEMSWXxEzf_LVVi5jI8UQhWUaA2xoYxIMCAE4AUADSAFQHmgB)
 
-### QR Code for DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
+### DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
 
 <img src="/qr-code-defcon-mesh.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
