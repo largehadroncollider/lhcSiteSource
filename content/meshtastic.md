@@ -28,6 +28,20 @@ If you don't want to flash your firmware and just want to change the channel, yo
 
 `https://meshtastic.org/e/#CjISIDhLvMAdwCLRgb82uGEh4fuWty5Vv3Qifp1q-0jWTLGhGgpERUZDT05uZWN0OgIIDQoXEhDEll8RM3_y1VYuYyPFEIVlGgNsaGMSEQgBEAY4AUADSAFQHmgBwAYB`
 
+## Add the LHC channel to your node
+
+Since most people will be in the default channel, it may be a little chaotic. You can add a secondary channel to your node.
+
+The parameters are:
+ 
+- Channel Name: `lhc`
+- Pre-shared Key: `xJZfETN/8tVWLmMjxRCFZQ==`
+- Role: `Secondary`
+
+## Talk to our bot 
+
+Reach our bot by sending a direct message to the main node `LHC` ID `!dda1843b`
+
 ## What's Meshtastic?
 
 Meshtastic is a project that lets you use inexpensive, battery powered, long range radios to send messages and GPS locations between devices in the field. It is a fully open source project that is based on the ESP32 hardware platform. The radios are based on the LoRa radio standard, which is a low power, long range digital radio standard. 
@@ -134,15 +148,3 @@ You can also disable your node's internal GPS, and use the location provided by 
 #### Disable Telemetry
 
 Some nodes have integrated sensors, and Meshtastic broadcasts this info to the mesh. This can be a burden on the network, so you can disable this in the Telemetry section of the settings.
-
-
-## Add the LHC channel to your node
-
-Since most people will be in the default channel, it may be a little chaotic. You can add a secondary channel to your node.
-
-The parameters are:
- 
-- Channel Name: `lhc`
-- Pre-shared Key: `xJZfETN/8tVWLmMjxRCFZQ==`
-- Role: `Secondary`
-
