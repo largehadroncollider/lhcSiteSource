@@ -20,27 +20,27 @@ If you don't want to flash your firmware and just want to change the channel, yo
 
 <img src="/qr-code-default.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
-[Meshtastic config for Default LongFast Mesh + LHC Channel](https://meshtastic.org/e/#CgcSAQE6AgggChcSEMSWXxEzf_LVVi5jI8UQhWUaA2xoYxIMCAE4AUADSAFQHmgB)
+<div style="text-align: center;">
+<a href=https://meshtastic.org/e/#CgcSAQE6AgggChcSEMSWXxEzf_LVVi5jI8UQhWUaA2xoYxIMCAE4AUADSAFQHmgB>Tap to load Default LongFast Mesh + LHC Channel</a>
+</div>
 
 ### DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
 
 <img src="/qr-code-defcon-mesh.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
 
-[Meshtastic config for DEFCONnect ShortFast Mesh + LHC Channel](https://meshtastic.org/e/#CjISIDhLvMAdwCLRgb82uGEh4fuWty5Vv3Qifp1q-0jWTLGhGgpERUZDT05uZWN0OgIIDQoXEhDEll8RM3_y1VYuYyPFEIVlGgNsaGMSEQgBEAY4AUADSAFQHmgBwAYB)
+<div style="text-align: center;">
+<a href=https://meshtastic.org/e/#CjISIDhLvMAdwCLRgb82uGEh4fuWty5Vv3Qifp1q-0jWTLGhGgpERUZDT05uZWN0OgIIDQoXEhDEll8RM3_y1VYuYyPFEIVlGgNsaGMSEQgBEAY4AUADSAFQHmgBwAYB>Tap to load DEFCONnect ShortFast Mesh + LHC Channel</a>
+</div>
 
-## Add the LHC channel to your node
-
-Since most people will be in the default channel, it may be a little chaotic. You can add a secondary channel to your node.
-
-The parameters are:
+### Add the LHC channel to your node manually
  
 - Channel Name: `lhc`
 - Pre-shared Key: `xJZfETN/8tVWLmMjxRCFZQ==`
 - Role: `Secondary`
 
-## Talk to our bot 
+### Talk to our bot 
 
-Reach our bot by sending a direct message to the main node `LHC` ID `!dda1843b`
+Reach our bot by sending a direct message to the main node `LHC` ID `!dda1843b`, you can ask about your signal quality and other info. Check it out!
 
 ## What's Meshtastic?
 
