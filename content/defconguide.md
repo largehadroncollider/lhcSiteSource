@@ -173,7 +173,7 @@ It’s advisable to stay as close to the con as possible. Stay at a con hotel if
 
 Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, you may ask for a DEF CON hotel key when you check in. These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. 
 
-Official DEF CON hotels usually carry DEF CON TV, which allows you to watch DEF CON talks from your room, but note that since the move away from Caesar's properties, there's no certainty that DEF CON TV will continue to be available in the hotels associated with DEF CON.
+Official DEF CON hotels used to carry DEF CON TV, which allowed you to watch DEF CON talks from your room, but since the move away from Caesar's properties, DEF CON TV will only be streaming online this year.
 
 If you’re really strapped for cash, you can do an Airbnb or an off-the-strip hotel/inn. You can also share a room with a friend. Both the DEF CON forums and the DEF CON subreddit have threads for room sharing during the months leading up to the event.
 
@@ -236,7 +236,7 @@ Speaking of full talks: if there is a talk that you absolutely must attend, ensu
 
 #### RoomCon
 
-If you couldn't get into a talk, or you hate crowds and don't want to line up for hours, you might enjoy RoomCon: DEF CON TV in your con hotel room! Keep in mind that as of DC32, DEF CON TV is not guaranteed to be available in the hotels associated with DEF CON. More info coming soon.
+If you couldn't get into a talk, or you hate crowds and don't want to line up for hours, you might enjoy RoomCon: DEF CON TV in your con hotel room! Keep in mind that as of DC32, DEF CON TV is not available in any hotels associated with DEF CON. Find em on twitch at https://www.twitch.tv/defconorg
 
 ### DC101
 
