@@ -21,6 +21,12 @@ We are working on the schedule but just a little insight: We are planning on doi
 
 &nbsp; 
 
+## LHC CTF @ DEF CON 32
+
+We are excited to announce that we will be hosting a CTF at DEF CON this year! You need a Meshtastic node to participate
+
+<h1><a href="https://ctf.lonelyhackers.lol">JOIN THE CTF HERE</a></h1>
+
 ### LHC Shop
 LHC is an official DEF CON Community this year! 🥳 We've setup an [LHC shop]({{< relref "shop" >}}) to help offset expenses so we can do really cool things! 100% of all proceeds will be used towards the LHC Community for DEF CON. 
 
