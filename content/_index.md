@@ -10,6 +10,15 @@ The LHC is a loose collective of people interested in hacking. LHC began on /r/d
 
 &nbsp;
 
+## LHC CTF @ DEF CON 32
+
+We are excited to announce that we will be hosting a small CTF at DEF CON this year! You need a Meshtastic node to participate.
+
+<h1><a href="https://ctf.lonelyhackers.lol">JOIN THE CTF HERE</a></h1>
+<h1><a href="/meshtastic">Meshtastic Guide</a></h1>
+
+&nbsp;
+
 ### DEF CON Guide, updated June 2024
 #### [Check out our DEF CON guide, especially if you're new!]({{< relref "defconguide" >}})
 &nbsp;
@@ -18,15 +27,6 @@ The LHC is a loose collective of people interested in hacking. LHC began on /r/d
 As you may know, we have a community room at DEF CON this year! We are planning on hosting a few events and we will be doing prizes as well! 
 
 We are working on the schedule but just a little insight: We are planning on doing Resume Reviews again, Name The Noob and Egor’s contest to name a few.
-
-&nbsp;
-
-## LHC CTF @ DEF CON 32
-
-We are excited to announce that we will be hosting a small CTF at DEF CON this year! You need a Meshtastic node to participate.
-
-<h1><a href="https://ctf.lonelyhackers.lol">JOIN THE CTF HERE</a></h1>
-<h1><a href="/meshtastic">Meshtastic Guide</a></h1>
 
 &nbsp;
 
