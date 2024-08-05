@@ -2,7 +2,7 @@
 linktitle: n00b guide
 menu:
   main:
-    name: n00b guide
+    name: guide
     weight: 50
 title: DEF CON n00b guide
 weight: 01
