@@ -12,7 +12,7 @@ Meshtastic released a proposed configuration for the DEF CON Mesh, which include
 
 It's assumed that due to the amount of nodes, the ShortFast preset will be more efficient for the network. We also expect that LongFast will get congested.
 
-They also released a specific firmware version for DEF CON, which comes preset with the `DEFCONnect` channel. It also includes a few other cosmetic changes. This firmware is available on the [DEF CON Meshtastic Flasher](https://defcon.meshtastic.org/). 
+They also released a specific firmware version for DEF CON, which comes preset with the `DEFCONnect` channel. It also includes a few other cosmetic changes. This firmware is available on the [DEF CON Meshtastic Flasher](https://defcon.meshtastic.com/). 
 
 If you don't want to flash your firmware and just want to change the channel, you can use the QR code below to change your channel between the default and the DEFCONnect channel.
 
