@@ -1,9 +1,5 @@
 ---
 title: "Comms"
-menu:
-  main:
-    name: Comms
-    weight: 70
 ---
 
 Lots of RF shenanigans happen at DEF CON. If you're interested in joining in on the fun, make sure you have a radio that can transmit on the frequencies listed below. 

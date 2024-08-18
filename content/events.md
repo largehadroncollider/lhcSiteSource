@@ -1,9 +1,5 @@
 ---
 title: "LHC Events"
-menu:
-  main:
-    name: Events
-    weight: 40
 ---
 
 # Lonely Hackers Club Community Room at DEF CON 🏢 

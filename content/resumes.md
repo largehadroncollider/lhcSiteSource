@@ -4,8 +4,6 @@ menu:
   main:
     name: Resumes
     weight: 80
-aliases:
-- "/post/resumes/"
 ---
 # Powerful Technical Resumes
 
