@@ -14,10 +14,6 @@ Our community room comes back this year, now with more activities and fun!
 
 🌎 Where: **Room W208 at LVCC, next to MERCH**
 
-## Community Room Schedule
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appM9h62wewnQFiGE/shr1nnSi6cIGgTBCs?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 # 🤖LHC Meetup🤖
 ## Wednesday, August 7th, 7:00 pm
 
