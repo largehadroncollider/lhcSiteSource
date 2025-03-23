@@ -1,7 +1,7 @@
 // Telegram form validation script
 
 // Cloudflare Worker URL for validating the turnstile token and providing secure redirection
-const VALIDATION_ENDPOINT = "https://lhc-captcha-validator.idkidkidk.workers.dev";
+const VALIDATION_ENDPOINT = "https://captcha.lonelyhackers.club";
 
 // Elements
 let form;
