@@ -42,7 +42,7 @@ menu:
 }
 
 .telegram-join-container p {
-  color: darkgray;
+  color: black;
 }
 
 .telegram-form {
