@@ -8,7 +8,6 @@ menu:
 ---
 
 <div class="telegram-join-container">
-  <h2>Join our Telegram Community</h2>
   <p>To join our Telegram group, please complete the verification below.</p>
   
   <form id="telegram-form" class="telegram-form">
@@ -40,6 +39,10 @@ menu:
   background-color: #f8f9fa;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.telegram-join-container p {
+  color: darkgray;
 }
 
 .telegram-form {
