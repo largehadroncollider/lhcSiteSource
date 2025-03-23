@@ -12,24 +12,23 @@ menu:
   <p>To join our Telegram group, please complete the verification below.</p>
   
   <form id="telegram-form" class="telegram-form">
-    <div class="form-group">
-      <div
-        class="cf-turnstile"
-        data-sitekey="0x4AAAAAABCICC2i_PBR3jc2"
-        data-callback="turnstileCallback"
-      ></div>
-    </div>
-    
-    <div class="form-group">
-      <button type="submit" id="submit-button" class="btn btn-primary" disabled>
-        Join Telegram Group
-      </button>
-    </div>
-    
-    <div id="error-message" class="alert alert-danger" style="display: none;"></div>
-    <div id="success-message" class="alert alert-success" style="display: none;">
-      Verification successful! Redirecting to Telegram...
-    </div>
+  <div class="form-group">
+    <div
+      class="cf-turnstile"
+      data-sitekey="0x4AAAAAABCICC2i_PBR3jc2"
+      data-callback="turnstileCallback"
+    ></div>
+  </div>
+  <div class="form-group">
+    <button type="submit" id="submit-button" class="btn btn-primary" disabled>
+      Join Telegram Group
+    </button>
+  </div>
+  
+  <div id="error-message" class="alert alert-danger" style="display: none;"></div>
+  <div id="success-message" class="alert alert-success" style="display: none;">
+    Verification successful! Redirecting to Telegram...
+  </div>
   </form>
 </div>
 
