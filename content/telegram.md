@@ -67,6 +67,16 @@ menu:
   background-color: #cccccc;
   border-color: #cccccc;
 } */
+
+.alert-success{
+  background-color: lightgreen;
+  color: black;
+}
+
+.alert-danger{
+  background-color: crimson;
+  color: black;
+}
 </style>
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
