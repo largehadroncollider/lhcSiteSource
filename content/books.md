@@ -3,7 +3,7 @@ title: "Books"
 menu:
   main:
     name: Books
-    weight: 80
+    weight: 70
 aliases:
 - "/post/books/"
 ---

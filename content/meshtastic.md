@@ -1,9 +1,9 @@
 ---
-title: "Meshtastic"
+title: "Meshtastic Guide"
 menu:
   main:
-    name: Meshtastic
-    weight: 70
+    name: Meshtastic Guide
+    weight: 40
 ---
 
 ## TL;DR: Updates August 2 2024

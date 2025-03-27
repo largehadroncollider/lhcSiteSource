@@ -3,7 +3,7 @@ title: "Talks"
 menu:
   main:
     name: Talks
-    weight: 40
+    weight: 60
 ---
 These talks are given by members and friends of the Lonely Hackers Club. 
 

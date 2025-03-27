@@ -4,7 +4,7 @@ type: page
 menu:
   main:
     name: Telegram
-    weight: 30
+    weight: 20
 ---
 
 <div class="telegram-join-container">

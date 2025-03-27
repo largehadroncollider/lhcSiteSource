@@ -2,10 +2,9 @@
 linktitle: n00b guide
 menu:
   main:
-    name: guide
-    weight: 50
+    name: DEF CON n00b guide
+    weight: 30
 title: DEF CON n00b guide
-weight: 01
 type: page
 layout: single
 aliases:
