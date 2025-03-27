@@ -5,6 +5,7 @@ enableGitInfo = true
 
 [Params]
   logo = "lhc_logo_dc31.png"
+  cover = "lhc_logo_dc31.png"
   commit = false
   favicon = "favicon.ico"
   contentTypeName = "posts"
@@ -23,7 +24,7 @@ enableGitInfo = true
 [languages]
   [languages.en]
     title = "Lonely Hackers Club"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "LHC is what happens if LineCon exists forever."
     keywords = ""
     copyright = ""
     menuMore = "Show more"
