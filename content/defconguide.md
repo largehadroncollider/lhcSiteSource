@@ -2,10 +2,9 @@
 linktitle: n00b guide
 menu:
   main:
-    name: guide
-    weight: 50
+    name: DEF CON n00b guide
+    weight: 30
 title: DEF CON n00b guide
-weight: 01
 type: page
 layout: single
 aliases:
@@ -14,7 +13,7 @@ aliases:
 ---
 <!---** Please note ** This TOC is statically maintained. Please try to keep it up-to-date if you adjust headings. -->
 <details>
-  <summary><h2>* Menu</h2></summary>
+  <summary>* Menu</summary>
 
 - [DEF CON Guide](#def-con-guide)
 - [What is DEF CON](#what-is-def-con)

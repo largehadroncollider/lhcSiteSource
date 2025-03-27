@@ -3,9 +3,9 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
-          {{ if .Site.Author.github }}
+          {{ if .Site.Params.Author.github }}
           <li>
-            <a href="https://github.com/{{ .Site.Author.github }}" title="GitHub">
+            <a href="https://github.com/{{ .Site.Params.Author.github }}" title="GitHub">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-brands fa-github fa-stack-1x fa-inverse"></i>
@@ -13,9 +13,9 @@
             </a>
           </li>
           {{ end }}
-		      {{ if .Site.Author.twitter }}
+		      {{ if .Site.Params.Author.twitter }}
           <li>
-            <a href="https://x.com/{{ .Site.Author.twitter }}" title="Twitter">
+            <a href="https://x.com/{{ .Site.Params.Author.twitter }}" title="Twitter">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-brands fa-x-twitter fa-stack-1x fa-inverse"></i>
@@ -25,7 +25,7 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted">
-    	  <a href="{{ .Site.BaseURL }}">{{ .Site.Author.handle }}</a> {{ .GitInfo.CommitDate.Format "2006" }} | <a href="http://gohugo.io">Hugo</a> fueled
+    	  <a href="{{ .Site.BaseURL }}">{{ .Site.Params.Author.handle }}</a> {{ .GitInfo.CommitDate.Format "2006" }} | <a href="http://gohugo.io">Hugo</a> fueled
     		  
     	  {{ if .Site.Title }}
     	  {{ end }}
