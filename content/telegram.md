@@ -53,7 +53,7 @@ menu:
   margin-bottom: 20px;
 }
 
-.btn-primary {
+/* .btn-primary {
   background-color: #0088cc;
   border-color: #0088cc;
 }
@@ -66,7 +66,7 @@ menu:
 .btn-primary:disabled {
   background-color: #cccccc;
   border-color: #cccccc;
-}
+} */
 </style>
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
