@@ -5,8 +5,10 @@ type: page
 layout: single
 ---
 
-### What is the LHC?
-The LHC is a loose collective of people interested in hacking. LHC began on /r/defcon as a way for people attending DEF CON on their own, to meet up with other like-minded people
+## What is the LHC?
+The LHC is a loose collective of people interested in hacking. 
+
+LHC began on /r/defcon as a way for people attending DEF CON on their own, to meet up with other like-minded people
 
 *"LHC is what happens if LineCon exists forever" -Sethops*
 
@@ -16,9 +18,9 @@ The LHC is a loose collective of people interested in hacking. LHC began on /r/d
 &nbsp;
 
 ## Lonely Hackers Club Community Room at DEF CON 33
-More info coming soon!
+*More info coming soon!*
 
-### Some useful links
+## Some useful links
 
 [LHC twitter account](https://x.com/L0nelyH4ckers "Twitter Account")  
 
