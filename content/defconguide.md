@@ -13,7 +13,7 @@ aliases:
 ---
 <!---** Please note ** This TOC is statically maintained. Please try to keep it up-to-date if you adjust headings. -->
 <details>
-  <summary><h2>* Menu</h2></summary>
+  <summary>* Menu</summary>
 
 - [DEF CON Guide](#def-con-guide)
 - [What is DEF CON](#what-is-def-con)
