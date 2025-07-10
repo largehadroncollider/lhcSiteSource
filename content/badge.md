@@ -23,6 +23,7 @@ menu:
   </div>
 </div>
 
+<hr/>
 
 <div style="overflow: auto;">
   <img src="/LHC_Badge_Back_transparent.png" width="600" alt="LHC Meshtastic Badge 2025" style="float: right; margin: 0 0 20px 30px; border-radius: 10px; border: 0;" />
@@ -43,19 +44,31 @@ menu:
   </ul>
 </div>
 
-### What's Included
+<hr/>
 
-- 1x LHC Meshtastic Badge 2025
-- 1x Custom LHC Lanyard
+<div style="overflow: auto;">
+  <img src="/LHC_Lanyard_transparent.png" width="450" alt="LHC Lanyard" style="float: left; margin: 0 30px 20px 0; border-radius: 10px; border: 0;" />
+  
+  <h3>What's Included</h3>
+  
+  <ul style="overflow: hidden; padding-left: 20px;">
+    <li>1x LHC Meshtastic Badge 2025</li>
+    <li>1x Custom LHC Lanyard</li>
+  </ul>
+  
+  <h3>Technical Specifications</h3>
+  
+  <ul style="overflow: hidden; padding-left: 20px;">
+    <li><strong>Processor</strong>: ESP32-S3-N16R8</li>
+    <li><strong>Radio</strong>: Semtech SX1262 LoRa transceiver</li>
+    <li><strong>Frequency</strong>: 915MHz (US ISM band)</li>
+    <li><strong>Antenna</strong>: Integrated with SWR 1.1 at 915MHz</li>
+    <li><strong>Power</strong>: 1000mAh Li-Ion rechargeable battery (included)</li>
+    <li><strong>Dimensions</strong>: 140mm x 140mm</li>
+  </ul>
+</div>
 
-### Technical Specifications
-
-- **Processor**: ESP32-S3-N16R8
-- **Radio**: Semtech SX1262 LoRa transceiver
-- **Frequency**: 915MHz (US ISM band)
-- **Antenna**: Integrated with SWR 1.1 at 915MHz
-- **Power**: 1000mAh Li-Ion rechargeable battery (included)
-- **Dimensions**: 140mm x 140mm
+<hr/>
 
 ### Pre-loaded Configuration
 
@@ -64,6 +77,8 @@ Your badge comes pre-configured with:
 - DEFCONnect channel preset
 - LHC secondary channel
 - Optimized settings for large mesh networks
+
+<hr/>
 
 ### How to Pair
 
@@ -85,11 +100,7 @@ When pairing your badge with the Meshtastic app, the 6-digit PIN code will be di
 
 The LEDs will display this pattern for 30 seconds when you initiate pairing mode. Simply read the colors from left to right and enter the corresponding numbers in the Meshtastic app to complete the pairing process.
 
-### Why Choose the LHC Badge?
-
-- **Optimized for DEF CON**: Pre-configured for the unique challenges of large hacker conferences
-- **Support the Collective**: Proceeds help fund LHC activities and infrastructure
-- **Exclusive Design**: Show your LHC pride with custom artwork you won't find anywhere else
+<hr/>
 
 ### Shipping Information
 
