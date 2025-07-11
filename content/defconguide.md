@@ -16,17 +16,18 @@ aliases:
   <summary>* Menu</summary>
 
 - [DEF CON Guide](#def-con-guide)
+  * [Quick Pre-Con Checklist](#quick-pre-con-checklist)
 - [What is DEF CON](#what-is-def-con)
-- [Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.)](#belonging-sometimes-you-feel-like-a-nut-sometimes-you-dont)
+- [Belonging (Sometimes You Feel Like a Nut. Sometimes You Don't.)](#belonging-sometimes-you-feel-like-a-nut-sometimes-you-dont)
 - [Getting Involved and Making New Hacker Friends](#getting-involved-and-making-new-hacker-friends)
-  * [Be Inclusive (“Pac Man” Theory)](#be-inclusive-pac-man-theory)
+  * [Be Inclusive ("Pac Man" Theory)](#be-inclusive-pac-man-theory)
 - [Transportation](#transportation)
   * [Airport Tips/Tricks](#airport-tipstricks)
   * [International Hackers](#international-hackers)
   * [Hotels](#hotels)
     + [Hotel Room Hax](#hotel-room-hax)
   * [Work Trip?](#work-trip)
-- [“Doing The Con”](#doing-the-con)
+- ["Doing The Con"](#doing-the-con)
   * [Badges](#badges)
   * [LineCon](#linecon)
   * [DEF CON Program](#def-con-program)
@@ -58,7 +59,7 @@ aliases:
     + [Challenge Coins](#challenge-coins)
 - [Staying Informed](#staying-informed)
   * [Hacker Tracker App](#hacker-tracker-app)
-  * [Twitter](#twitter)
+  * [X (formerly Twitter)](#x-formerly-twitter)
   * [Slack](#slack)
   * [Telegram](#telegram)
   * [Reddit](#reddit)
@@ -72,7 +73,7 @@ aliases:
   * [Room Security/Privacy](#room-securityprivacy)
   * [Personal Security/Safety](#personal-securitysafety)
   * [Bring a Battle Buddy](#bring-a-battle-buddy)
-  * [Being Stupid? Don’t](#being-stupid--don-t)
+  * [Being Stupid? Don't](#being-stupid--don-t)
 - [Surviving Las Vegas/What to Bring](#surviving-las-vegaswhat-to-bring)
   * [PACE YOURSELF!](#pace-yourself)
   * [Hygiene](#hygiene)
@@ -86,7 +87,6 @@ aliases:
     + [FroggerCon](#froggercon)
   * [Saving Money](#saving-money)
 - [DEF CON Outside of Las Vegas?](#def-con-outside-of-las-vegas)
-  * [DC China](#dc-china)
   * [DC Groups](#dc-groups)
 - [Links](#links)
 - [Document Hackers](#document-hackers)
@@ -95,9 +95,21 @@ aliases:
 
 # DEF CON Guide
 
-So you’re going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go, or even if you are, you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
+So you're going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go, or even if you are, you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
 
 DEF CON is huge, and can be very overwhelming at first. With multiple talks at the same time, villages everywhere, workshops here and there, something called "SkyTalks," those people in red shirts who keep directing the thousands of hackers, and everything else going on, it can be a lot to take in! And this is all while the bells, whistles, and lights of the Las Vegas casino that you will grow to love... or hate... are flashing in your face. We hope this guide will help you get the most out of your experience, and perhaps meet some new hacker friends.
+
+## Quick Pre-Con Checklist
+
+- [ ] Badge purchased or cash ready
+- [ ] Hotel booked
+- [ ] Flight/transportation arranged
+- [ ] Cash withdrawn ($500+ recommended)
+- [ ] Devices updated and secured
+- [ ] Emergency contacts saved
+- [ ] Comfortable shoes broken in
+- [ ] Water bottle packed
+- [ ] Battle buddies identified
 
 # What is DEF CON
 
@@ -131,7 +143,7 @@ Find some friendly looking people, walk up to them, introduce yourself, and join
 
 Sharing is a quick way to make friends, and helping people is another great way to meet people. See a goon carrying too much shit? Offer to help. See village staff overwhelmed and working through lunch?  Bring ‘em a snack and ask how you can help. See a group of people working on something? Ask what they're up to and if they would like any help.
 
-Finally, get socially involved online. Reddit, LHC, Twitter, Telegram, Slack, etc. are all instrumental parts of the DEF CON experience today, as plans change, people coordinate, and socializing happens. (See below for more details.)
+Finally, get socially involved online. Reddit, LHC, X (formerly Twitter), Telegram, Slack, etc. are all instrumental parts of the DEF CON experience today, as plans change, people coordinate, and socializing happens. (See below for more details.)
 
 ### Be Inclusive ("Pac Man" Theory)
 
@@ -172,11 +184,11 @@ It’s advisable to stay as close to the con as possible. Stay at a con hotel if
 
 Official DEF CON room blocks allow you to sleep near fellow freaks and geeks at a special price. If you’re staying at a DEF CON official hotel, you may ask for a DEF CON hotel key when you check in. These hotel keys are printed with a special logo for the event, making them another piece of swag, but convey no other benefit. 
 
-Official DEF CON hotels used to carry DEF CON TV, which allowed you to watch DEF CON talks from your room, but since the move away from Caesar's properties, DEF CON TV will only be streaming online this year.
+Official DEF CON hotels used to carry DEF CON TV, which allowed you to watch DEF CON talks from your room, but since the move away from Caesar's properties, DEF CON TV will only be streaming online.
 
 If you’re really strapped for cash, you can do an Airbnb or an off-the-strip hotel/inn. You can also share a room with a friend. Both the DEF CON forums and the DEF CON subreddit have threads for room sharing during the months leading up to the event.
 
-It's also worth noting that most Las Vegas hotels have a daily "resort tax" that is charged for the duration of your stay, which can be **quite costly** (up to $45 per night).
+It's also worth noting that most Las Vegas hotels have a daily "resort tax" that is charged for the duration of your stay, which can be **quite costly** (up to $60 per night).
 
 #### Hotel Room Hax
 
@@ -198,7 +210,7 @@ So, you’ve got your heavy-ass laptop strapped to your back, your $19 coffee in
 
 ### Badges
 
-DEF CON now has [pre-registration](https://shop.defcon.org/products/def-con-32-las-vegas-convention-center), and you can buy your badge early, but if you plan on doing [LineCon](#linecon), payment is **CASH ONLY**~~. Your registration grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically made available online, just after the event.
+DEF CON now has [pre-registration](https://shop.defcon.org/products/def-con-33-ticket), and you can buy your badge early, but if you plan on doing [LineCon](#linecon), payment is **CASH ONLY**~~. Your registration grants you a badge, which is used for admission to the con. There are a variety of badges that you may see, including Human, Goon, Vendor, Press, Contests, Artist, Black, and CFP. Generic PDF receipts "proving" your purchase are typically made available online, just after the event.
 
 Most attendees receive Human badges. Other attendees will have different looking badges that signify their distinct role or job at DEF CON. Of particular note:
 
@@ -247,7 +259,7 @@ Villages are focused topic areas spread throughout the con. Each village general
 
 ### Workshops
 
-Workshops are (generally 4 hour) small, hands-on classes. Pre-registration is required in order to attend a workshop. This year they’re charging $25 on EventBrite to cut down on no-shows. If you want to get in, watch [@Defcon](https://twitter.com/defcon) for announcements on when the pre-reg will open. They go *very fast*. You're competing with thousands of other excited hackers here, and space is extremely limited! Find out when registration opens and start refreshing.
+Workshops are (generally 4 hour) small, hands-on classes. Pre-registration is required in order to attend a workshop. This year they’re charging $25 on EventBrite to cut down on no-shows. If you want to get in, watch [@Defcon](https://x.com/defcon) for announcements on when the pre-reg will open. They go *very fast*. You're competing with thousands of other excited hackers here, and space is extremely limited! Find out when registration opens and start refreshing.
 
 If you are lucky enough to get into a workshop, bring your laptop: these are hands-on classes. The material for past workshops (and other assorted material) is online at [https://media.defcon.org/](https://media.defcon.org/).
 
@@ -265,13 +277,13 @@ Call for Papers/Presentations. This is the process for how talks, workshops, etc
 
 If you want to go to a SkyTalk, and a mainline DC talk that are scheduled at the same time, go to the SkyTalk. Mainline talks are recorded, and SkyTalks are not.
 
-You can watch [@dcskytalks](https://twitter.com/dcskytalks) for updates.
+You can watch [@dcskytalks](https://x.com/dcskytalks) for updates.
 
 ### Parties
 
 DEF CON is all about the parties and there’s always going to be a ton. See [Parties, Meetups, & Events](https://defcon.org/html/defcon-32/dc-32-pmne.html) for the list.
 
-You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://twitter.com/defconparties) on Twitter. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
+You will find the best parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://x.com/defconparties) on X. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party.
 
 #### Getting Your Drinks
 Many people in Vegas are drunk. Most likely many of your fellow hackers will be as well! This is Vegas and DEF CON -- you never need to directly pay for a drink. If you are unable to get a drink from one of the many vendors or parties around, there is always the cocktail waitresses. 
@@ -317,9 +329,9 @@ Casino security is a real thing, and they will F you up, so don’t try anything
 
 Use the section below to get a better approximation of how much cash you should bring.  Note: These are based on our collective past experiences and are to be used as a GUIDELINE ONLY, so plan accordinglly.  Don't come whining to us if prices on some things are higher than listed below or if you order some fancy bottle of booze that ends up costing you $10,000.
 
-- DEF CON badge - $480 prereg, $460 cash
+- DEF CON badge - $560 prereg, $500 cash
 - Swag
-  * Tshirt - $30-40
+  * Tshirt - $30-60
   * DEF CON bag - $60
   * DEF CON hat - $25-$40
   * Custom Badges - $5-$150
@@ -382,7 +394,7 @@ Be a hero:
 
 ### Badge Life/Indie Badges
 
-Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch Twitter [#badgelife](https://twitter.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/htmlview). Save your lunch money as it’s an expensive habit.
+Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch X [#badgelife](https://x.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/htmlview). Save your lunch money as it’s an expensive habit.
 
 ### Con Flu
 
@@ -390,9 +402,7 @@ Because of all the socializing and partying you will be doing without much sleep
 
 ### Bathrooms
 
-People using the men’s room will experience uncharacteristic lines. People using the women’s room will notice unusual emptiness. Don’t be an asshole, but no one can tell you how you identify though. 
-
-Don’t ignore your body’s nature time. Take a shit or piss when needed. If you haven't needed to do either for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please don't be a scumbag who pisses or shits all over the floor. Particularly in a handicap-accessible area; DEF CON strives to be accessible to everyone.
+Don't ignore your body's nature time. Take care of business when needed. If you haven't needed to use the restroom for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please be respectful and keep facilities clean for everyone. Particularly in accessible areas; DEF CON strives to be accessible to everyone.
 
 ### Shenanigans
 
@@ -402,7 +412,7 @@ Sometimes shenanigans allegedly occur. What happens in Vegas stays in Vegas. Exc
 
 Many people enjoy giving away/selling/trading things at DEF CON that they make to commemorate the event, their groups, etc. -- stickers, vinyl, poker chips, t-shirts, and so on. Just like Pokemon, collect em all. Hell, get a few extras. 
 
-There is also [Sticker Swap](https://twitter.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including beer, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
+There is also [Sticker Swap](https://x.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including beer, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
 
 #### Challenge Coins
 
@@ -416,11 +426,11 @@ DEF CON is *organic* and *fluid* and it’s important to keep in the loop to kno
 
 [Hacker Tracker](https://hackertracker.app) is an app, created by volunteers independent of DEF CON, that provides a convenient pocket-sized agenda. Stuff changes fast: refresh Hacker Tracker often. It does not contain all of the information in the official [DEF CON Program](#def-con-program), and it's not perfect... it's volunteer-updated, and they have to sleep from time to time.
 
-### Twitter
+### X (formerly Twitter)
 
-Twitter is a necessary evil. This is where you are going to find all the k00l k1d parties, badge makers announcing drop locations, swag, people giving away free badges, unofficial events, DEF CON gossip, etc.
+X is a necessary evil. This is where you are going to find all the k00l k1d parties, badge makers announcing drop locations, swag, people giving away free badges, unofficial events, DEF CON gossip, etc.
 
-Twitter is also a great way to surround yourself with news relating to hacking, infosec, etc. The links that people post will lead you down all kinds of rabbit holes and will make you that much more of a l337 hax0r.
+X is also a great way to surround yourself with news relating to hacking, infosec, etc. The links that people post will lead you down all kinds of rabbit holes and will make you that much more of a l337 hax0r.
 
 ### Slack
 
@@ -428,7 +438,7 @@ A lot of villages, etc., use Slack channels. It’s a good idea to be comfortabl
 
 ### Telegram
 
-Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2024.dcfurs.com)) use Telegram for realtime communication.
+Some villages, and some unofficial but nearby groups (such as [Queercon](https://queercon.org) and [DCFurs](https://2025.dcfurs.com)) use Telegram for realtime communication.
 
 ### Reddit
 
@@ -456,13 +466,13 @@ Don’t take photos/videos of anyone without their permission. Don’t take phot
 
 * You **must** be up-to-date on all patches/updates. Running any operating system or software that's even slightly out-of-date is a **horrible** idea, and a recipe for a bad time.
 * Use an encrypted-in-flight data-centric app like Signal, Telegram, or iMessage, instead of SMS.
-* Turn Bluetooth off when you aren't using it.
+* Turn Bluetooth off when you aren't using it. Be aware of Bluetooth tracking and proximity attacks.
 * Turn off background location usage of WiFi/Bluetooth/etc.
 * Consider using airplane mode, or powering down your device altogether, when you aren't using it. (This is sound advice, but most people don't follow it.)
 * Consider using a secondary phone that's not loaded down with personal photos/emails/etc.
 * Avoid bringing any "work" electronics unless you absolutely have to.
-* Physical security is still super important. Don’t let people watch what you do on your screen/learn your PIN/unlock pattern (which shows up in skin oil)/etc. Don’t leave your phone sitting around unattended. Don’t leave your phone sticking up out of your back pocket begging to fall out... or worse.
-* DO NOT PLUG INTO STRANGE USB PORTS/CHARGERS. Plug yourself into other types of strange in Vegas. Not puter ports. Get a USB power only adapter, aka USB condom for charging if you don’t have a trusted wall wart handy. This is not a drill.
+* Physical security is still super important. Don't let people watch what you do on your screen/learn your PIN/unlock pattern (which shows up in skin oil)/etc. Don't leave your phone sitting around unattended. Don't leave your phone sticking up out of your back pocket begging to fall out... or worse.
+* DO NOT PLUG INTO STRANGE USB PORTS/CHARGERS. Plug yourself into other types of strange in Vegas. Not puter ports. Get a USB power only adapter, aka USB condom for charging if you don't have a trusted wall wart handy. This is not a drill.
 
 #### WiFi
 
@@ -505,7 +515,12 @@ In general, practice basic personal safety and situational awareness. Be aware o
 
 DEF CON attendees are as diverse as their places of business, and for a variety of reasons, including personal comfort, security clearances, legal agreements, etc., people may be more or less comfortable about sharing where they work. In general, consider being cautious about being too open about your own place of employment. And, leave it up to others to say where they work, if they feel comfortable.
 
-Everyone who comes to DEF CON deserves to enjoy themselves and have a safe and fun experience. If you are being harassed or attacked or made to feel unsafe by anyone while attending DEF CON, find a Goon, a DEF CON staff member, or a police officer or casino staff/security officer. You can also call  **+1 (725) 222-0934** (DEF CON Support) or email `safety@defcon.org` for help.
+Everyone who comes to DEF CON deserves to enjoy themselves and have a safe and fun experience. If you are being harassed or attacked or made to feel unsafe by anyone while attending DEF CON, find a Goon, a DEF CON staff member, or a police officer or casino staff/security officer.
+
+**Emergency Contacts:**
+- **Immediate Danger:** 911
+- **DEF CON Support:** +1 (725) 222-0934
+- **Safety Email:** safety@defcon.org
 
 If you’re feeling anxious about your safety, check out the [Transparency Report](https://www.defcon.org/html/links/dc-transparency.html). DEF CON is generally a very safe, fun, and welcoming event for everyone involved, but it’s a great idea to be aware of the available resources in case you, or someone else, needs them.
 
