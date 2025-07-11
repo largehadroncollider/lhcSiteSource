@@ -20,6 +20,7 @@ menu:
     <h2 style="margin: 0; color: #333;">$100</h2>
     <p style="margin: 10px 0 20px 0; color: #666;">Limited Edition - Only 50 Available</p>
     <a href="https://buy.stripe.com/9B6eV6cXP82057B5KUgUM00" style="display: inline-block; background-color: #007bff; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px;">BUY NOW</a>
+    <!-- discount code is the Priapus Gluteus' common name, one word all caps -->
   </div>
 </div>
 
