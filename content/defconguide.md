@@ -394,7 +394,7 @@ Be a hero:
 
 ### Badge Life/Indie Badges
 
-Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch X [#badgelife](https://x.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/htmlview). Save your lunch money as it’s an expensive habit.
+Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch X [#badgelife](https://x.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1_eJnHTbvm-uhvslkRayfEJ99Z5agVZCl1GPqbFqwMFg/htmlview). Save your lunch money as it’s an expensive habit.
 
 ### Con Flu
 
