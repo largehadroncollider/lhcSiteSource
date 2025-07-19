@@ -26,4 +26,4 @@ Join us for the LHC Meetup at DEF CON, an exciting gathering for LHC members and
 
 "It's like High Roller Con, but with fish on conveyor belts."
 
-🌎 Where: **SapporoLV ([Menu](https://sapporolv.com/las-vegas-sapporo-revolving-sushi-food-menu)) at the South Las Vegas Location**
+🌎 Where: **SapporoLV ([Menu](https://sapporolv.com/las-vegas-sapporo-revolving-sushi-food-menu)) at the Spring Mountain Location, 4671 Spring Mountain Rd, Las Vegas, NV 89102**
