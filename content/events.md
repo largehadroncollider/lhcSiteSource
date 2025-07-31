@@ -12,7 +12,7 @@ layout: single
 
 # Detailed schedule coming soon!
 
-🌎 Where: **Room W201-202 at LVCC, next to MERCH**
+🌎 Where: **Room W201-202 at LVCC**
 
 # 🤖LHC Meetup🤖
 ## Wednesday, August 6th, 7:00 pm
