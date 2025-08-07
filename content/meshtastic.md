@@ -6,7 +6,7 @@ menu:
     weight: 40
 ---
 
-## TL;DR: Updates August 2 2024
+## TL;DR: Updates August 7 2025
 
 Meshtastic released a proposed configuration for the DEF CON Mesh, which includes a new channel default, `DEFCONnect` with a PSK, running on the ShortTurbo preset. 
 
