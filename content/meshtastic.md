@@ -8,39 +8,62 @@ menu:
 
 ## TL;DR: Updates August 2 2024
 
-Meshtastic released a proposed configuration for the DEF CON Mesh, which includes a new channel default, `DEFCONnect` with a PSK, running on the ShortFast preset. 
+Meshtastic released a proposed configuration for the DEF CON Mesh, which includes a new channel default, `DEFCONnect` with a PSK, running on the ShortTurbo preset. 
 
-It's assumed that due to the amount of nodes, the ShortFast preset will be more efficient for the network. We also expect that LongFast will get congested.
+It's assumed that due to the amount of nodes, the ShortTurbo preset will be more efficient for the network.
 
-They also released a specific firmware version for DEF CON, which comes preset with the `DEFCONnect` channel. It also includes a few other cosmetic changes. This firmware is available on the [DEF CON Meshtastic Flasher](https://defcon.meshtastic.com/). 
+They also released a specific firmware version for DEF CON, which comes preset with the `DEFCONnect` channel. It also includes a few other cosmetic changes. This firmware is available on the [DEF CON Meshtastic Flasher](https://defcon.meshtastic.org/). 
 
-If you don't want to flash your firmware and just want to change the channel, you can use the QR code below to change your channel between the default and the DEFCONnect channel.
+If you don't want to flash your firmware and just want to change the channel, setup your nodes as follows:
 
-### Default LongFast Mesh + LHC Channel, Use before DEF CON
+### DEFCONnect ShortTurbo Mesh + LHC Channel, Use during DEF CON
 
-<img src="/qr-code-default.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
+1. Core Radio Settings
 
-<div style="text-align: center;">
-<a href=https://meshtastic.org/e/#CgcSAQE6AgggChcSEMSWXxEzf_LVVi5jI8UQhWUaA2xoYxIMCAE4AUADSAFQHmgB>Tap to load Default LongFast Mesh + LHC Channel</a>
-</div>
+- Open Meshtastic app
+- Go to Radio Configuration → LoRa
+- Set Region: United States
+- Set Preset: Short Turbo
+- Set Channel Number: 31
+- Set Hop Limit: 2 or 3 (keep it low!)
 
-### DEFCONnect ShortFast Mesh + LHC Channel, Use during DEF CON
+- Enable Event Mode if available
 
-<img src="/qr-code-defcon-mesh.png" width="400" height="400" alt="Meshtastic QR Code for Default LongFast" />
+2. Add DEF CON Channels
+You can copy the text of these from here: https://info.defcon.org/document/?id=535
 
-<div style="text-align: center;">
-<a href=https://meshtastic.org/e/#CjISIDhLvMAdwCLRgb82uGEh4fuWty5Vv3Qifp1q-0jWTLGhGgpERUZDT05uZWN0OgIIDQoXEhDEll8RM3_y1VYuYyPFEIVlGgNsaGMSEQgBEAY4AUADSAFQHmgBwAYB>Tap to load DEFCONnect ShortFast Mesh + LHC Channel</a>
-</div>
+Add these three channels in order:
+
+### Channel 0 - DEFCONnect (Primary)
+
+Name:
+`DEFCONnect`
+PSK:
+`OEu8wB3AItGBvza4YSHh+5a3LlW/dCJ+nWr7SNZMsaE=`
+
+### Channel 1 - HackerComms
+
+Name:
+`HackerComms`
+PSK:
+`6IzsaoVhx1ETWeWuu0dUWMLqItvYJLbRzwgTAKCfvtY=`
+
+### Channel 2 - NodeChat
+
+Name:
+`NodeChat`
+PSK:
+`TiIdi8MJG+IRnIkS8iUZXRU+MHuGtuzEasOWXp4QndU=`
 
 ### Add the LHC channel to your node manually
  
-- Channel Name: `lhc`
-- Pre-shared Key: `xJZfETN/8tVWLmMjxRCFZQ==`
+- Channel Name: `LHC`
+- Pre-shared Key: `xwvve6Rcv8WEdn5vOqwt3MdZlMtFHzNQGrjkbBTdhYbk=`
 - Role: `Secondary`
 
-### Talk to our bot 
 
-Reach our bot by sending a direct message to the main node `LHC` ID `!dda1843b`, you can ask about your signal quality and other info. Check it out!
+### Need Help?
+Lonely Hackers Club - Located on Level 2, W201-202
 
 ## What's Meshtastic?
 
@@ -94,9 +117,9 @@ Once you have your Meshtastic device, you will need to flash the firmware onto t
 
 ### Installation
 
-If you're using one of the supported ESP32 devices, you can head to the [Meshtastic Flasher](https://flasher.meshtastic.org/), select your board, the version of the firmware you want to flash, and click "Flash". 
+If you're using one of the supported ESP32 devices, you can head to the [DEF CON Meshtastic Flasher](https://defcon.meshtastic.org/) or [Regular Meshtastic Flasher](https://flasher.meshtastic.org/), select your board, the version of the firmware you want to flash, and click "Flash". 
 
-We recommend to **version 2.4.0 alpha or newer*** as they introduced fixes for large meshes.
+We recommend to **version 2.7 alpha or newer**.
 
 More info is available on the [Flashing Firmware](https://meshtastic.org/docs/getting-started/flashing-firmware/) section.
 
@@ -135,7 +158,7 @@ From our experience at DC31, there will be ***a lot of nodes*** at DEF CON. You 
 
 #### ALWAYS USE THE `client` ROLE
 
-Meshtastic has introduced other roles for the node, like `router` or `router/client`. These modes are aimed for well placed nodes that can help the network to relay messages, but they can be a burden on the network if not used correctly, as they take priority when rebroadcasting messages.
+Meshtastic has introduced other roles for the node, like `router` or `router_late`. These modes are aimed for well placed nodes that can help the network to relay messages, but they can be a burden on the network if not used correctly, as they take priority when rebroadcasting messages.
 
 For this reason we insist that you leave your node configured with `client` role, as this will help the network to perform better.
 
