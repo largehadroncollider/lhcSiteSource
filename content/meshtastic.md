@@ -58,7 +58,7 @@ PSK:
 ### Add the LHC channel to your node manually
  
 - Channel Name: `LHC`
-- Pre-shared Key: `xwvve6Rcv8WEdn5vOqwt3MdZlMtFHzNQGrjkbBTdhYbk=`
+- Pre-shared Key: `wvve6Rcv8WEdn5vOqwt3MdZlMtFHzNQGrjkbBTdhYbk=`
 - Role: `Secondary`
 
 
