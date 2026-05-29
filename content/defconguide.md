@@ -653,10 +653,10 @@ DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of DEF
 
 # Document Hackers
 
-* hashgrind / [@hashgrind](https://x.com/hashgrind)
+* hashgrind / @hashgrind
 * Beaker / SethOps / [@swordofomen](https://x.com/swordofomen)
 * furb / [@dixieflatline_](https://x.com/dixieflatline_)
-* Winyl / [@serraabak](https://x.com/serraabak)
+* Winyl / @serraabak
 * H4r0ld / [@JonSelman](https://x.com/JonSelman)
 * Quix
 * LP / [@Last_Person](https://x.com/Last_Person)
@@ -665,6 +665,6 @@ DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of DEF
 * 2bitwannabe / [@2bitwannabe](https://x.com/2bitwannabe)
 * Chris / [@TechGirlMN](https://x.com/TechGirlMN)
 * princess / [@Princess_htw](https://x.com/princess_htw)
-* IlliterateBeef / [@illiteratebeef](https://x.com/illiteratebeef)
+* IlliterateBeef / @illiteratebeef
 * aNullValue / [@aNullValue](https://x.com/anullvalue)
 * p0ns / [@p0ns](https://x.com/p0ns)
