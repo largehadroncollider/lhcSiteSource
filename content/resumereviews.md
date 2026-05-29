@@ -60,6 +60,6 @@ If you have built or led a technical team, made hiring decisions as a practition
 - Helping attendees, many of whom are self-taught, career-changing, or non-traditional, frame their real skills in language that lands
 - A commitment of at least one two-hour block across Friday, Saturday, or Sunday
 
-### How to Sign Up
+### How to Volunteer
 
 > **_NOTE:_**  Coming soon!

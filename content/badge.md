@@ -1,11 +1,15 @@
 ---
-title: "LHC Meshtastic Badge 2025"
+title: "LHC Badge"
 menu:
   main:
-    name: Badge 2025
+    name: Badge
     weight: 45
 ---
+## LHC Badge 2026
 
+> **_NOTE:_**  We're working on providing you with an awesoma badge again this year. Stay tuned!
+
+## LHC Meshtastic Badge 2025
 <div style="overflow: auto;">
   <img src="/LHC_Badge_transparent.png" width="600" alt="LHC Meshtastic Badge 2025" style="float: left; margin: 0 30px 20px 0; border-radius: 10px; border: 0;" />
   
@@ -16,10 +20,12 @@ menu:
   <p>Featuring an <strong>ESP32-S3-N16R8</strong> processor and <strong>SX1262 LoRa radio</strong>, this badge delivers exceptional range and performance. The integrated antenna with SWR 1.1 at 915MHz ensures optimal signal quality right out of the box, while the optional SMA connector allows for external antenna upgrades.</p>
   
   <p>Each badge includes a <strong>1000mAh Li-Ion rechargeable battery</strong> for extended operation throughout the conference. The custom Meshtastic firmware features a unique Badge control interface and RGB LED control, making your badge truly stand out in the mesh network.</p>
+  <!--
   <div style="background-color: #f0f0f0; padding: 30px; border-radius: 10px; text-align: center; margin: 30px 0;">
     <h2 style="margin: 0; color: #333;">$100</h2>
     <p style="margin: 10px 0 20px 0; color: #666;">Limited Edition - Only 50 Available</p>
     <a href="https://buy.stripe.com/9B6eV6cXP82057B5KUgUM00" style="display: inline-block; background-color: #007bff; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px;"><strike>BUY NOW</strike><br>SOLD OUT<br>more stock coming soon</a>
+    -->
     <!-- discount code is the Priapus Gluteus' common name, one word all caps -->
   </div>
 </div>
