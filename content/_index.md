@@ -20,12 +20,3 @@ LHC began on /r/defcon as a way for people attending DEF CON on their own, to me
 ## Lonely Hackers Club Community Room at DEF CON 34
 *More info coming soon!*
 
-## Some useful links
-
-[LHC twitter account](https://x.com/L0nelyH4ckers "Twitter Account")  
-
-<a href="https://defcon.social/@L0nelyH4ckers" title="Mastodon Account" rel="me">LHC Mastodon account</a>
-
-[DEF CON subreddit](https://www.reddit.com/r/defcon "DEF CON Subreddt")  
-
-[LHC subreddit](https://www.reddit.com/r/largehadroncollider "LHC Subreddit")  
