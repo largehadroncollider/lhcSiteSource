@@ -155,6 +155,12 @@ There are two ways to get to Las Vegas: By car or by plane. The flights to Las V
 
 Book flights early. Depending on whether you’re going to BlackHat/BSidesLV, you’ll need to arrive extra early. If you’re just doing DEF CON, you should still try to fly in on Wednesday, because people like to get an early start to the festivities. Don’t leave on Sunday unless you have to. The best conversations happen late Sunday night, and the airport is much less chaotic on Monday.
 
+Taxis offer regulated flat fees for trips from the airport to various zones on the strip and back ranging from $21 to $29.
+
+[Harry Reid airport taxis info](https://www.harryreidairport.com/taxi-and-ride-share/taxis)
+
+[Taxi zone and price map (2/2026)](https://images.ctfassets.net/2pnrhs9eukyp/3sqnMqC4CooktwcYOGPBVn/5c08b27bb8e856b5591cfd40b3564b71/Base_rate_with_Map_8-24.jpg)
+
 ### Airport Tips/Tricks
 
 Wearing DEF CON swag and hacker stuff at the airport can help you make friends, but it can also get you extra attention from airport security (totally worth it).

@@ -10,8 +10,9 @@ The LHC is a loose collective of people interested in hacking.
 
 LHC began on /r/defcon as a way for people attending DEF CON on their own, to meet up with other like-minded people.
 
-*"LHC is what happens if LineCon exists forever" -Sethops*
+>"LHC is what happens if LineCon exists forever" -Sethops*
 
+&nbsp;
 
 ## [Check out our DEF CON guide, especially if you're new!]({{< relref "defconguide" >}})
 
@@ -21,7 +22,7 @@ LHC began on /r/defcon as a way for people attending DEF CON on their own, to me
 
 Prepare for DEF CON 34 in August 2026 by checking our resources on con survival and tips from seasoned greybeards.
 
-**[Community Room]({{< relref "events" >}})** — We have our own room on-site at DEF CON and invite you to stop by, hang out, and meet the community.
+**[Community Room & Meetups ]({{< relref "events" >}})** — We have our own room on-site at DEF CON and invite you to stop by, hang out, and meet the community. Check back for updates on meetups as those tend to pop up shortly before DEF CON.
 
 **[CTF]({{< relref "ctf" >}})** — A community-run Capture the Flag competition held in the LHC room throughout the whole con for all skill levels.
 
