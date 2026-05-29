@@ -7,7 +7,7 @@ menu:
 ---
 ## LHC Badge 2026
 
-> **_NOTE:_**  We're working on providing you with an awesoma badge again this year. Stay tuned!
+> **_NOTE:_**  We're working on providing you with an awesome badge again this year. Stay tuned!
 
 ## LHC Meshtastic Badge 2025
 <div style="overflow: auto;">

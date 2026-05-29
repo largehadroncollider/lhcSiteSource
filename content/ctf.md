@@ -11,7 +11,7 @@ The LHC CTF is a community-run capture the flag competition held every year on-s
 
 ## Open for all
 
-The LHC CTF welcomes all skill levels, from first-time DEF CON attendees to experienced CTF competitors. The challenges are layered, so newcomers can get meaningful wins while veterans still find plenty to chew on. Participants often team up spontaneously on location, making it as much a social experience as a technical one.
+We welcome all skill levels, from first-time DEF CON attendees to experienced CTF competitors. The challenges are layered, so newcomers can get meaningful wins while veterans still find plenty to chew on. Participants often team up spontaneously on location, making it as much a social experience as a technical one.
 
 ## How to participate
 

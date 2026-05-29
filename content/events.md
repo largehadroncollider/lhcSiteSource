@@ -12,7 +12,7 @@ layout: single
 - ### Saturday Aug 8th 2026  10:00am-6:00pm
 - ### Sunday Aug 9th 2026  10:00am-1:00pm 
 
-🌎 Where: **1st floor**
+🌎 Where: **1st floor**, details coming soon!
 
 ---
 

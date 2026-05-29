@@ -10,7 +10,7 @@ The LHC is a loose collective of people interested in hacking.
 
 LHC began on /r/defcon as a way for people attending DEF CON on their own, to meet up with other like-minded people.
 
->"LHC is what happens if LineCon exists forever" -Sethops*
+>"LHC is what happens if LineCon exists forever" -Sethops
 
 &nbsp;
 

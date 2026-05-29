@@ -29,15 +29,22 @@ Sessions are 10 to 15 minutes. Walk up, sit down, get real feedback.
 
 - A printed copy of your resume, or have it ready on your phone or laptop
 - A rough idea of the kind of role or area you are targeting
-- Thick skin and an open mind -- the feedback will be direct
+- Thick skin and an open mind. The feedback will be direct!
 
 ### Where and When
 
-- Friday and Saturday: 10:00 AM to 6:00 PM
+- Friday August 7th: 10:00 AM to 6:00 PM
+- Saturday August 8th: 10:00 AM to 6:00 PM
 
-### Book Your Slot
+### Book Your Slot For Free
 
-> **_NOTE:_**  Coming soon!
+We will open the [online registration](https://tickets.lonelyhackers.club) for resume reviews shortly before DEF CON. 
+You will be able to book a slot in our free pretix shop. Feel free to use a handle instead of your real name. You will have to check in in person 10 minutes before your registered slot or your slot will be given to walk-ins.
+
+> **_NOTE:_**  Registration coming end of July 2026!
+
+One of our reviewers will be be dedicated to walk-ins while reviews are running. So show up early to secure your spot if you missed the online registration.
+
 
 ## Call For Volunteers
 
@@ -55,10 +62,10 @@ If you have built or led a technical team, made hiring decisions as a practition
 
 ### What the Role Involves
 
-- 10 to 15 minute one-on-one sessions with attendees during your shift
+- 10 to 20 minute one-on-one sessions with attendees during your shift
 - Honest, actionable feedback on how a resume reads from the perspective of someone who actually makes hiring decisions
 - Helping attendees, many of whom are self-taught, career-changing, or non-traditional, frame their real skills in language that lands
-- A commitment of at least one two-hour block across Friday, Saturday, or Sunday
+- A commitment of at least one two-hour block across Friday or Saturday
 
 ### How to Volunteer
 
