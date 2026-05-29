@@ -17,6 +17,25 @@ LHC began on /r/defcon as a way for people attending DEF CON on their own, to me
 
 &nbsp;
 
-## Lonely Hackers Club Community Room at DEF CON 34
-*More info coming soon!*
+## DEF CON 34
+
+Prepare for DEF CON 34 in August 2026 by checking our resources on con survival and tips from seasoned greybeards.
+
+**[Community Room]({{< relref "events" >}})** — We have our own room on-site at DEF CON and invite you to stop by, hang out, and meet the community.
+
+**[CTF]({{< relref "ctf" >}})** — A community-run Capture the Flag competition held in the LHC room throughout the whole con for all skill levels.
+
+**[Comms]({{< relref "comms" >}})** — Find our frequencies and get on the net.
+
+**[Meshtastic Guide]({{< relref "meshtastic" >}})** — Info on joining the DEF CON mesh network with your Meshtastic device.
+
+**[Badge]({{< relref "badge" >}})** — LHC makes a custom hardware badge each year. Check out we built for 2025 while waiting. More info coming soon!
+
+**[Resumes]({{< relref "resumes" >}})** — Tips on writing a strong technical resume.
+
+**[Resume Reviews]({{< relref "resumereviews" >}})** — Free one-on-one resume reviews at DEF CON, by people who have actually hired technical teams.
+
+**[Resources]({{< relref "resources" >}})** — Useful links and a reading list to level up your hacker skills.
+
+Join us on [Telegram]({{< relref "telegram" >}})
 
