@@ -10,7 +10,7 @@ layout: single
 # Lonely Hackers Club Community Room at DEF CON 🏢 
 ## Friday 7th and Saturday 8th : 10:00am - 6:00pm, Sunday 9th 10:00am - 1:00pm 
 
-# Detailed schedule coming soon!
+> **_NOTE:_**  Detailed schedule coming soon!
 
 🌎 Where: **1st floor**
 
