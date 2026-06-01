@@ -40,7 +40,7 @@ So you wanna get your learn on huh? Below is intended to be a growing list of bo
 
 ## Volunteering
 
-Want to volunteer at the LHC community room? We only bring on volunteers we already know from the community, so the best path in is to get involved first. Come hang out at the room during DEF CON, join our Telegram group, and become part of the community. Be helpful there and help new first time DEF CON visitors to feel at home. When spots open up, we reach out to people we've gotten to know.
+Want to volunteer at the LHC community room? We only bring on volunteers we already know from the community, so the best path in is to get involved first. Come hang out at the room during DEF CON, join our [Telegram group]({{< relref "telegram" >}}), come to [our events]({{< relref "events" >}}), and become part of the community. Be helpful there and help new first time DEF CON visitors to feel at home. When spots open up, we reach out to people we've gotten to know.
 
 ### Requirements
 
