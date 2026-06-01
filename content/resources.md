@@ -37,3 +37,17 @@ So you wanna get your learn on huh? Below is intended to be a growing list of bo
 - [Open Source Intelligence Techniques](https://www.amazon.com/dp/1984201573)
 
 - [Black Hat Python](https://www.amazon.com/dp/1593275900)
+
+## Volunteering
+
+Want to volunteer at the LHC community room? We only bring on volunteers we already know from the community, so the best path in is to get involved first. Come hang out at the room during DEF CON, join our Telegram group, and become part of the community. Be helpful there and help new first time DEF CON visitors to feel at home. When spots open up, we reach out to people we've gotten to know.
+
+### Requirements
+
+- Active part of the LHC community
+- 
+- Commitment to at least 2 shifts (3-3.5 hours each) on Friday, Saturday, or Sunday of DEF CON
+
+### Volunteer Coordination
+
+We use our [angel system](https://angels.lonelyhackers.club) and a Telegram chat group to coordinate shifts. Volunteers receive access to both when they are confirmed for the team.
