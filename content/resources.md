@@ -8,7 +8,7 @@ aliases:
 - "/post/books/"
 ---
 
-## Some useful links
+## LHC Socials
 
 - [LHC twitter account](https://x.com/L0nelyH4ckers "Twitter Account")  
 
@@ -16,7 +16,33 @@ aliases:
 
 - [DEF CON subreddit](https://www.reddit.com/r/defcon "DEF CON Subreddt")  
 
-- [LHC subreddit](https://www.reddit.com/r/largehadroncollider "LHC Subreddit")  
+- [LHC subreddit](https://www.reddit.com/r/largehadroncollider "LHC Subreddit")
+
+## Learning Platforms
+
+Whether you're just getting started or looking to sharpen a specific skill, the platforms below offer hands-on labs, challenges, and courses across a range of cybersecurity disciplines. Use the legend to find resources that match your focus area.
+
+🔴 Redteam - Pentest | 🔵 Blueteam | 🟣 Cryptography | 🟢 OSINT
+
+- 🔴 [Battle4Hack](https://seela.io/battleh4ck)
+- 🔴 [Hack The Box](https://www.hackthebox.com)
+- 🔴 [Hackviser](https://hackviser.com)
+- 🔴 [PentesterLab](https://pentesterlab.com)
+- 🔴 [PortSwigger Academy](https://portswigger.net/web-security)
+- 🔴 [Red Labs Platform](https://redlabs.enterprisesecurity.io)
+- 🔴 [Root ME](https://www.root-me.org)
+- 🔴🔵 [Academy Hack The Box](https://academy.hackthebox.com)
+- 🔴🔵 [Cisco Academy](https://www.netacad.com/catalogs/learn?category=course)
+- 🔴🔵 [The Black Side](https://theblackside.fr)
+- 🔴🔵 [TryHackMe](https://tryhackme.com)
+- 🔴🟢🔵 [KC7 - A Cybersecurity Game](https://kc7cyber.com)
+- 🔴🟣🔵 [Pwn College](https://pwn.college)
+- 🔵 [Blue Teams Labs Online](https://blueteamlabs.online)
+- 🔵 [Crowdsec Academy](https://academy.crowdsec.net)
+- 🔵 [CyberDefenders](https://cyberdefenders.org)
+- 🔵 [LetsDefend](https://app.letsdefend.io/training)
+- 🟣 [CryptoHack](https://cryptohack.org)
+- 🟢 [Ozint](https://ozint.eu)
 
 ## Books
 
