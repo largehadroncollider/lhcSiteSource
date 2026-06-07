@@ -7,9 +7,9 @@ menu:
 ---
 ## Get Checked!
 
-You have the skills. You have the projects. You have the CTF wins, the home lab, the self-taught grind. But when it comes to putting it all on a resume, something gets lost in translation.
+You have the skills. You have the projects. You have the CTF wins, the home lab, the self-taught grind. But when it comes to putting it all on a resume, something gets lost in translation. That is exactly what this is for.
 
-That is exactly what this is for.
+Resume Reviews at DEF CON 34 is hosted by **[Lonely Hackers Club (LHC)](https://lonelyhackers.club)** together with **[Open Worldwide Application Security Project (OWASP)](https://owasp.org)**, **[The Diana Initiative](https://www.dianainitiative.org)**, **[Women in Security and Privacy (WISP)](https://www.wisporg.com)**, and **[Blue Team Village](https://blueteamvillage.com)**.
 
 ### What This Is
 
@@ -33,8 +33,9 @@ Sessions are 10 to 15 minutes. Walk up, sit down, get real feedback.
 
 ### Where and When
 
-- Friday August 7th: 10:00 AM to 6:00 PM
-- Saturday August 8th: 10:00 AM to 6:00 PM
+- Lonely Hackers Club community room at DEF CON 34
+- Friday August 7th: 10:00 AM to 4:00 PM
+- Saturday August 8th: 10:00 AM to 4:00 PM
 
 ### Book Your Slot For Free
 
@@ -52,7 +53,6 @@ We are looking for volunteer resume reviewers for DEF CON 34. This is a communit
 
 If you have built or led a technical team, made hiring decisions as a practitioner, or managed people in a security or engineering role, and you consider DEF CON your people, we want to hear from you.
 
-
 ### Who We Are Looking For
 
 - Technical managers, team leads, and engineering leads who have directly hired staff
@@ -62,11 +62,13 @@ If you have built or led a technical team, made hiring decisions as a practition
 
 ### What the Role Involves
 
-- 10 to 20 minute one-on-one sessions with attendees during your shift
+- 15 minute one-on-one sessions with attendees during your shift
 - Honest, actionable feedback on how a resume reads from the perspective of someone who actually makes hiring decisions
 - Helping attendees, many of whom are self-taught, career-changing, or non-traditional, frame their real skills in language that lands
 - A commitment of at least one two-hour block across Friday or Saturday
 
 ### How to Volunteer
 
-> **_NOTE:_**  Coming soon!
+- Fill out the [volunteer form](https://cryptpad.fr/form/#/2/form/view/f5k42x5Sn0V9WmvvY9JZgder3lnfoYde2Z4f6QUp6t8/) with your background, the kind of hiring or management experience you have, and which two-hour blocks you are available for
+- When accepted, you will get access to our volunteer system where you can sign up for your shifts closer to the event
+- Once enough volunteers have registered, we will close the registration
