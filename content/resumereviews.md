@@ -34,8 +34,8 @@ Sessions are 15 minutes. Walk up, sit down, get real feedback.
 ### Where and When
 
 - Lonely Hackers Club community room at DEF CON 34
-- Friday August 7th: 10:00 AM to 4:00 PM
-- Saturday August 8th: 10:00 AM to 4:00 PM
+- Friday August 7th: 10:30 AM to 4:30 PM
+- Saturday August 8th: 10:30 AM to 4:30 PM
 
 ### Book Your Slot For Free
 
@@ -68,7 +68,7 @@ If you have built or led a technical team, made hiring decisions as a practition
 - 15 minute one-on-one sessions with attendees during your shift
 - Honest, actionable feedback on how a resume reads from the perspective of someone who actually makes hiring decisions
 - Helping attendees, many of whom are self-taught, career-changing, or non-traditional, frame their real skills in language that lands
-- A commitment of at least one two-hour shift across Friday August 7th or Saturday 8th 2026
+- A commitment of at least one two-hour shift across Friday August 7th or Saturday 8th 2026 between 10:30 AM an 4:30 PM
 
 ### How to Volunteer
 
