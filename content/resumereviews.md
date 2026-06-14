@@ -46,6 +46,7 @@ You will be able to book a slot in our free pretix shop. Feel free to use a hand
 
 One of our reviewers will be be dedicated to walk-ins while reviews are running. So show up early to secure your spot if you missed the online registration.
 
+<br/><br/>
 
 ## Call For Volunteers
 
