@@ -15,7 +15,7 @@ Resume Reviews at DEF CON 34 is hosted by **[Lonely Hackers Club (LHC)](https://
 
 Free, one-on-one resume reviews at DEF CON 34, run by people from this community who have actually hired and managed technical teams. No recruiters. No corporate fluff. Just honest feedback from people who have sat on both sides of the table and know what works.
 
-Sessions are 10 to 15 minutes. Walk up, sit down, get real feedback.
+Sessions are 15 minutes. Walk up, sit down, get real feedback.
 
 ### Who Should Come
 
@@ -42,12 +42,14 @@ Sessions are 10 to 15 minutes. Walk up, sit down, get real feedback.
 We will open the [online registration](https://tickets.lonelyhackers.club) for resume reviews shortly before DEF CON. 
 You will be able to book a slot in our free pretix shop. Feel free to use a handle instead of your real name. You will have to check in in person 10 minutes before your registered slot or your slot will be given to walk-ins.
 
-> **_NOTE:_**  Registration coming end of July 2026!
+> **_NOTE:_**  Registration for slots coming July 2026!
 
 One of our reviewers will be be dedicated to walk-ins while reviews are running. So show up early to secure your spot if you missed the online registration.
 
 
 ## Call For Volunteers
+
+![](/lhc-resume-reviews-cfv-wide.jpeg)
 
 We are looking for volunteer resume reviewers for DEF CON 34. This is a community effort. We want people who are part of this community, have done the work, and have hired or managed others along the way.
 
@@ -65,10 +67,11 @@ If you have built or led a technical team, made hiring decisions as a practition
 - 15 minute one-on-one sessions with attendees during your shift
 - Honest, actionable feedback on how a resume reads from the perspective of someone who actually makes hiring decisions
 - Helping attendees, many of whom are self-taught, career-changing, or non-traditional, frame their real skills in language that lands
-- A commitment of at least one two-hour block across Friday or Saturday
+- A commitment of at least one two-hour shift across Friday August 7th or Saturday 8th 2026
 
 ### How to Volunteer
 
 - Fill out the [volunteer form](https://cryptpad.fr/form/#/2/form/view/f5k42x5Sn0V9WmvvY9JZgder3lnfoYde2Z4f6QUp6t8/) with your background, the kind of hiring or management experience you have, and which two-hour blocks you are available for
+- Please pick more than one shift, if possible, so we can organize around your availabilities
 - When accepted, you will get access to our volunteer system where you can sign up for your shifts closer to the event
 - Once enough volunteers have registered, we will close the registration
