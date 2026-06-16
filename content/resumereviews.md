@@ -72,7 +72,7 @@ If you have built or led a technical team, made hiring decisions as a practition
 
 ### How to Volunteer
 
-- Fill out the [volunteer form](https://cryptpad.fr/form/#/2/form/view/f5k42x5Sn0V9WmvvY9JZgder3lnfoYde2Z4f6QUp6t8/) with your background, the kind of hiring or management experience you have, and which two-hour blocks you are available for
+- Fill out the [volunteer form](https://cryptpad.fr/form/#/2/form/view/f5k42x5Sn0V9WmvvY9JZgder3lnfoYde2Z4f6QUp6t8/embed/) with your background, the kind of hiring or management experience you have, and which two-hour blocks you are available for
 - Please pick more than one shift, if possible, so we can organize around your availabilities
 - When accepted, you will get access to our volunteer system where you can sign up for your shifts closer to the event
 - Once enough volunteers have registered, we will close the registration
