@@ -93,6 +93,8 @@ aliases:
 
 # DEF CON Guide
 
+### Updated for 2026 / DC34
+
 So you're going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go, or even if you are, you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
 
 DEF CON is huge, and can be very overwhelming at first. With multiple talks at the same time, villages everywhere, workshops here and there, something called "SkyTalks," those people in red shirts who keep directing the thousands of hackers, and everything else going on, it can be a lot to take in! And this is all while the bells, whistles, and lights of the Las Vegas casino that you will grow to love... or hate... are flashing in your face. We hope this guide will help you get the most out of your experience, and perhaps meet some new hacker friends.
@@ -535,7 +537,7 @@ Hacking is cool, committing crimes is not. Know about US computer crime laws! Do
 
 # Surviving Las Vegas/What to Bring
 
-Vegas is slightly warm, a little pricey, and just a little stimulating....
+Vegas is slightly warm, a little pricey, and just a little stimulating....lol
 
 ### PACE YOURSELF!
 
@@ -569,9 +571,9 @@ As a last resort, there are services (hotel based and external) that will hook y
 
 ### What to Wear
 
-Loose and comfortable clothing in some formulation of top (probably a t-shirt in your favorite shade of black) plus a bottom (shorts, skirts, kilts, whatever) is a good idea. You may want something more flattering for after hours partying and socializing. Cargo shit is ugly but functional for the shit you’ll carry and accumulate throughout the day unless you have a bag of some kind. Jeans and long pants can get pretty hot, but plenty of people wear them anyway. Backpacks and other bags can help you avoid the permanent stigma of being a Cargo Person. 
+Loose and comfortable clothing in some formulation of top (probably a t-shirt in your favorite shade of black) plus a bottom (shorts, skirts, kilts, whatever) is a good idea. You may want something more flattering for after hours partying and socializing. Cargo shorts are common as you can stash more stuff and skip the backpack. Jeans and long pants can get pretty hot, but plenty of people wear them anyway. Backpacks and other bags can help you avoid the permanent stigma of being a Cargo Person. :eyeroll: 
 
-Wear loose clothing. I know you want to be 1337 and rock your Doc’s, but try it... I dare you.
+Frankly wear whatever you want. If I was to guess at the 'dress-code' it's whatever is legal under Nevada law. **Unless** you are going out to a fancy dinner or club. Some folks have been surprised by requirements to wear pants and full coverage shoes. Google can probably answer if you are not sure about a particular location.  
 
 #### Ladies and Feminine-Dressing Folks
 
@@ -583,7 +585,7 @@ If you carry a purse, consider swapping your daily carry to something lightweigh
 
 Vegas food is expensive, especially on the strip and inside hotels/casinos. Casino/hotel restaurants fill up really fast at all the times that humans like to eat, especially con ones. Eating last minute is probably not going to happen, and being hungry means you’re going to have a bad day. 
 
-Crafty hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack protein bars, caffeine pills, and snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
+Some frugal hackers pack/make meals in their rooms to save money or eat at off-strip locations. Beware -- your hotel minifridge probably won't have a freezer! Many people pack snacks in their carry ons to have on hand. Beware morning coffee lines, which get incredibly long.
 
 If you want to eat at a con casino, particularly during lunch or dinner hours, be sure to eat at an off time, arrive very early, or eat in your room there (if you're staying there). Otherwise, you'll want to eat off premises -- or you'll likely be stuck in a long, long line with a lot of other hungry hackers.
 
@@ -601,7 +603,7 @@ DEF CON requires a LOT of walking. The hotels are enormous; even just walking th
 
 Cabs can get expensive and are very popular, and they may try to drive you to strip clubs and other places. Compare prices to Lyft/Uber to see which one is cheaper. You can also make friends with people who want to go to the same place you do and split the cost. Try to travel at off times, and think in advance of where you need to be, when you need to be there, then give yourself at least the standard margin.
 
-Depending on where you are staying, the Las Vegas monorail might be another option to help you get around. It runs between MGM Grand and SLS.
+Depending on where you are staying, the Las Vegas monorail might be another option to help you get around. This is a popular option for getting to the LVCC. It runs between MGM Grand and SLS.
 
 It operates between 7am and 00:00-03:00 depending on the day. More details can be found [here](https://www.lvmonorail.com/).
 
@@ -618,7 +620,7 @@ Traffic in Vegas is crazy, so don’t die crossing the street while playing Frog
 * Use a refillable water bottle instead of buying new ones. Sometimes finding places to refill them can be obnoxiously difficult, but it's not impossible.
 * If you're on a tight budget, you really don't have to buy any t-shirts or swag. Your official DEF CON badge is the only purchase.
 
-Take advantage of Players Rewards Cards ("Total Rewards"). These are free cards you get that allows the casino to know how much you spend virtually anywhere on their properties. In return, you can get discounts or free food. Basically, if you gamble, this will add up fast. If you don't spend a lot of money in casinos, skip it.
+Take advantage of Players Rewards Cards if you do much gambling. You can get some comps like free food.
 
 If you are considering having things delivered to you (Prime, Shipt, Doordash), know that the hotel will tax the hell out of it.
 
@@ -632,7 +634,7 @@ DC Groups are local DEF CON affiliates where DefCon’ers meet up outside of DEF
 
 # Links
 
-* [Mega DEF CON Info](https://www.reddit.com/r/Defcon/comments/tx7tg2/mega_def_con_info_for_your_planning_enjoyment/)
+* TBD - check reddit or HackerTracker till we find some links worth listing here.
 
 # Document Hackers
 
