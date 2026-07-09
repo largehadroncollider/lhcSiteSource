@@ -253,7 +253,7 @@ If you couldn't get into a talk, or you hate crowds and don't want to line up fo
 
 ### Villages
 
-Villages are focused topic areas spread throughout the con. Each village generally has a single assigned physical space to stay in. See the [DEF CON Villages page](https://defcon.org/html/defcon-32/dc-32-villages.html) for more information. Some villages will have their own talks and workshops. It's different every year.
+Villages are focused topic areas spread throughout the con. Each village generally has a single assigned physical space to stay in. See the [DEF CON Villages page](https://defcon.org/html/defcon-34/dc-34-villages.html) for more information. Some villages will have their own talks and workshops. It's different every year.
 
 ### Workshops
 
@@ -265,15 +265,15 @@ If you are lucky enough to get into a workshop, bring your laptop: these are han
 
 ### Contests
 
-DEF CON has a ton of contests and events for you to get involved with! No matter who you are or what you do, there's certain to be something that you can jump into. See the [DEF CON Contests](https://defcon.org/html/defcon-32/dc-32-contests.html) for more information.
+DEF CON has a ton of contests and events for you to get involved with! No matter who you are or what you do, there's certain to be something that you can jump into. See the [DEF CON Contests](https://defcon.org/html/defcon-34/dc-34-contests.html) for more information.
 
 ### CFP
 
-Call for Papers/Presentations. This is the process for how talks, workshops, etc. are selected. You send in what you want to tell the attendees of DEF CON, and a group of curmudgeons will review it and pick what will be a best fit. You can find CFP info [here](https://defcon.org/html/defcon-32/dc-32-cfp.html).
+Call for Papers/Presentations. This is the process for how talks, workshops, etc. are selected. You send in what you want to tell the attendees of DEF CON, and a group of curmudgeons will review it and pick what will be a best fit. You can find CFP info [here](https://defcon.org/html/defcon-34/dc-34-cfp.html).
 
 ### Parties
 
-DEF CON is all about the parties and there’s always going to be a ton. See [Parties, Meetups, & Events](https://defcon.org/html/defcon-32/dc-32-pmne.html) for the list. Another 3rd party list, mainly corpo-invite-only-sales type parties [Hacker Summer Camp Parties](https://conferenceparties.com/)
+DEF CON is all about the parties and there’s always going to be a ton. See [Parties, Meetups, & Events](https://defcon.org/html/defcon-34/dc-34-pmne.html) for the list. Another 3rd party list, mainly corpo-invite-only-sales type parties [Hacker Summer Camp Parties](https://conferenceparties.com/)
 
 You will find the **best** parties by conversing with your fellow hackers and befriending cool peeps, but it is a good idea to keep an eye on [@defconparties](https://x.com/defconparties) on X. Some parties are open to all; some are invite-only; some require that you have purchased some other unofficial badge. Save yourself some time by figuring that out before you show up at some party. Or roll the dice and try sneaking in. YOLO.
 
@@ -305,25 +305,25 @@ Your handle is your (mostly) unique name within the hacker community that allows
 
 Many people at DEF CON choose to use a handle instead of their real name to identify themselves. Don’t be an asshole, and respect someone’s choices no matter what they choose to call themselves. All kinds come to DEF CON, so to allow yourself to be easily identified, and to protect your own identity, you may also choose to use a handle, whether it’s one you already have or a new one that you create. Remember, respect others choices and everyone will have a good time.
 
-### Goons (Red Shirts)
+### Goons
 
-Goons are DEF CON staff members who work for many different departments, whose job it is to keep everyone safe, answer questions, and help the entire con run smoothly. 
+Goons are DEF CON staff members in red shirts who work for many different departments, whose job it is to keep everyone safe, answer questions, and help the entire con run smoothly. 
 
-Pay attention to staff in clearly marked shirts and listen to their directions for your and everyone else’s safety and joy. Go where they say, and move when they need you to move. It’s not an easy job screaming over 35 thousand people! Give them beers and Gatorades and make new friends.
+Pay attention to staff in clearly marked shirts and listen to their directions for your and everyone else’s safety. Go where they say, and move when they need you to move. It’s not an easy job helping over 30 thousand people!
 
 ### $$$$ aka MONEY
 
 Bring money (USD cash). More money (cash) than you think. OK, now bring just a little more cash. Keep going. Everything costs more than it should/you think it will in Vegas.
 
-ATM fees are on the higher side and can add up pretty quickly. Fake ATMs were once a thing, but you’re now more likely to have someone shoulder surf your account info than haxor the ATM. 
+Pro Tip - Just expect things to be expensive. If you dwell on the cost of things or spend a bunch of effort trying to save a buck, it can ruin a trip. 
 
-Casino security is a real thing, and they will F you up, so don’t try anything stupid. Jail isn’t cool. That said, some folks still prefer to use ATMs that are away from the con space.
+ATM fees are on the higher side (~$10) and can add up pretty quickly. Fake ATMs were once a thing but that was mainly a stunt. These days you are more at risk to get a charge/withdrawl declined because you are out of town. Some banks will flag that as sus. Just call them. 
 
 #### High Level Planning Guide for How Much $$$$ to Bring
 
 Use the section below to get a better approximation of how much cash you should bring.  Note: These are based on our collective past experiences and are to be used as a GUIDELINE ONLY, so plan accordinglly.  Don't come whining to us if prices on some things are higher than listed below or if you order some fancy bottle of booze that ends up costing you $10,000.
 
-- DEF CON badge - $560 prereg, $500 cash
+- DEF CON badge - $600 pre-reg online, $520 cash at the door (DC34 prices, inflation sux)
 - Swag
   * Tshirt - $30-60
   * DEF CON bag - $60
@@ -331,7 +331,7 @@ Use the section below to get a better approximation of how much cash you should 
   * Custom Badges - $5-$150
 - Food
   * Meal at the Casino - $25-$infinity
-  * Mixed drink at the Casino - $12-$20
+  * Mixed drink at the Casino - $12-$25
   * Beer at the Casino - $8-12
   * Bottle of water at the Casino - $3-$10
 
@@ -351,8 +351,9 @@ If you **do** want to wear cute shoes, save them for the parties.
 
 Once again, leave your laptop in your room unless you know you'll want/need it for a specific thing.
 
-* Carry a battery pack and charger, a water bottle, and your phone, which will probably end up being the main way you find out about stuff going on at DEF CON "right now."
-* Carry cash -- more than you think you need for all the cool shit you didn’t know you needed.
+* Carry your phone, which will probably end up being the main way you find out about stuff going on at DEF CON "right now."
+* A water bottle is generally a good idea but easy to forget somewhere or get annoying to carry. 
+* Cash is king -- more than you think you need for all the cool shit you didn’t know you needed.
 * Carry an ID for drinking, etc.
 
 You might want a lightweight backpack or purse/messenger bag for all the stuff and swag/collectibles that you end up gathering throughout the day. If you're going to use your normal backpack/messenger/purse, then do yourself a favor and empty it of the 50 lbs of excess crap that always accumulates, before DEF CON. You'll be glad you aren't carrying as much.
@@ -379,12 +380,6 @@ Good-to-haves:
 * Eye drops (the humidity is approx -9999%; your eyes will thank you)
 * [Condoms, condoms, condoms](https://youtu.be/Si0JJE1rXWY?t=28)
 
-Be a hero:
-
-* Tourniquet + sharpie (write a "T" on forehead/chest + time applied)
-* Sterile gauze
-* CPR mask (or [consider hands-only CPR](https://cpr.heart.org/idc/groups/ahaecc-public/@wcm/@ecc/documents/downloadable/ucm_495656.pdf) if you won't carry a mask)
-* Epi pen
 
 ### Badge Life/Indie Badges
 
@@ -396,7 +391,7 @@ Because of all the socializing and partying you will be doing without much sleep
 
 ### Bathrooms
 
-Don't ignore your body's nature time. Take care of business when needed. If you haven't needed to use the restroom for a longer period of time than is normal for you, **you are dehydrated**. Drink more water. Also, please be respectful and keep facilities clean for everyone. Particularly in accessible areas; DEF CON strives to be accessible to everyone.
+LVCC has a lot of restrooms but they're kinda small. I didn't see too many lines tho. If you do see a line, keep walking and the next one is probably less busy. Casinos seem to put their bathrooms in weird corners. 
 
 ### Shenanigans
 
@@ -406,15 +401,15 @@ Sometimes shenanigans allegedly occur. What happens in Vegas stays in Vegas. Exc
 
 Many people enjoy giving away/selling/trading things at DEF CON that they make to commemorate the event, their groups, etc. -- stickers, vinyl, poker chips, t-shirts, and so on. Just like Pokemon, collect em all. Hell, get a few extras. 
 
-There is also [Sticker Swap](https://x.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including beer, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
+There is also [Sticker Swap](https://x.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including coffee, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
 
 #### Challenge Coins
 
-Getting a challenge coin is very rare because they’re very expensive for the organizers to order. Consider yourself lucky if you receive one. They are similar to collectables.
+Getting a challenge coin is pretty rare because they’re rather expensive for the organizers to order. Consider yourself lucky if you receive one. They are similar to collectables.
 
 # Staying Informed
 
-DEF CON is *organic* and *fluid* and it’s important to keep in the loop to know what’s going on!
+DEF CON is *organic* and *fluid* and it’s important to keep in the loop to know what’s going on! 
 
 ### Hacker Tracker App
 
@@ -422,13 +417,13 @@ DEF CON is *organic* and *fluid* and it’s important to keep in the loop to kno
 
 ### X (formerly Twitter)
 
-X is a necessary evil. This is where you are going to find all the k00l k1d parties, badge makers announcing drop locations, swag, people giving away free badges, unofficial events, DEF CON gossip, etc.
+X is not nearly as popular as Twitter was for information. This is where you are going to find all the k00l k1d parties, badge makers announcing drop locations, swag, people giving away free badges, unofficial events, DEF CON gossip, etc.
 
 X is also a great way to surround yourself with news relating to hacking, infosec, etc. The links that people post will lead you down all kinds of rabbit holes and will make you that much more of a l337 hax0r.
 
-### Slack
+### Discord
 
-A lot of villages, etc., use Slack channels. It’s a good idea to be comfortable with using it.
+A lot of villages, etc., use Discord channels. 
 
 ### Telegram
 
@@ -437,8 +432,8 @@ Some villages, and some unofficial but nearby groups (such as [Queercon](https:/
 ### Reddit
 
 * [Unofficial DEF CON subreddit](https://reddit.com/r/defcon)
-* [Lonely Hackers Club subreddit](https://www.reddit.com/r/largehadroncollider/)
-* [Lonely Hackers Club redirect subreddit](https://www.reddit.com/r/lonelyhackersclub/)
+* [Lonely Hackers Club subreddit](https://www.reddit.com/r/largehadroncollider/) *LOL we forgot we had a subreddit it would appear. Mainly subreddit name squatting IIRC. 
+* [Lonely Hackers Club redirect subreddit](https://www.reddit.com/r/lonelyhackersclub/) *Don't think we update this one as much either
 
 ### Lonely Hackers Club
 
