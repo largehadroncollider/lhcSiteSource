@@ -93,7 +93,7 @@ aliases:
 
 # DEF CON Guide
 
-### Updated for 2026 / DC34
+### Updated for 2026 / DC34 [last on 7-10-26]
 
 So you're going to DEF CON. tl;dr, do it right: Be social, get involved, remember that everyone is a noob and you belong here, and for everyone's sake follow the 3-2-1 rule. If you're not sure if you want to go, or even if you are, you should watch [the DEF CON Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg). Excited now?
 
@@ -367,18 +367,16 @@ It’s helpful to have medicine on you, or at least in your hotel room, so you d
 Good-to-haves:
 
 * Pain relievers. Preferably NSAIDs (ibuprofen, Advil, Aspirin). acetaminophen/Tylenol/Paracetamol is strictly prohibited if you are or have recently been drinking.
+* Chap-stick - your lips will likely chap by day 2
 * PediaLyte is your friend, or electrolyte (salt) tablets or drinks for dehydration/hangovers
-* Sunscreen! If you're outside for >2 min you will get burnt!
+* Sunscreen!
 * Aloe Vera since you won't listen about putting on sunscreen
 * Zinc and vitamin C
 * Motion sickness (anti-nausea) medicine (dramamine)
 * Melatonin/5-HTP/Benedryl
 * Tums/digestive aids
-* Caffeine pills
 * Band-aids
-* Tissues
 * Earplugs - some parties are **loud**
-* Chap-stick
 * Eye drops (the humidity is approx -9999%; your eyes will thank you)
 * [Condoms, condoms, condoms](https://youtu.be/Si0JJE1rXWY?t=28)
 
@@ -386,6 +384,8 @@ Good-to-haves:
 ### Badge Life/Indie Badges
 
 Are you even 1337 if you don’t have 15 badges banging on your chest? DEF CON THINKS NOT. These are non-official badges made by the community. Some get you into parties, some are just handed out, some are one-of-a-kind and identify the maker. Watch X [#badgelife](https://x.com/hashtag/badgelife) for the latest info or the [Unofficial Badgelife List](https://docs.google.com/spreadsheets/u/0/d/1_eJnHTbvm-uhvslkRayfEJ99Z5agVZCl1GPqbFqwMFg/htmlview). Save your lunch money as it’s an expensive habit.
+
+Update: There's apparently a 'badge marketplace' now. [UberFlux](https://uberflux.com/)
 
 ### Con Flu
 
@@ -404,6 +404,8 @@ Sometimes shenanigans allegedly occur. What happens in Vegas stays in Vegas. Exc
 Many people enjoy giving away/selling/trading things at DEF CON that they make to commemorate the event, their groups, etc. -- stickers, vinyl, poker chips, t-shirts, and so on. Just like Pokemon, collect em all. Hell, get a few extras. 
 
 There is also [Sticker Swap](https://x.com/dcstickerswap) where you can trade. Other swaps have been seen before too, including coffee, bourbon, cigar, etc. Look around! Badgelife comes into play here too.
+
+**DO NOT STICKER THE LVCC** they are very fussy about their new building staying clean. You will get banned from the property. There will be dedicated 'sticker walls' (aka giant banners) for you to decorate if you want at con. 
 
 #### Challenge Coins
 
@@ -425,7 +427,7 @@ X is also a great way to surround yourself with news relating to hacking, infose
 
 ### Discord
 
-A lot of villages, etc., use Discord channels. 
+A lot of villages, etc., use Discord channels. LHC has a discord but no one uses it.
 
 ### Telegram
 
