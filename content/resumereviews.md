@@ -42,7 +42,7 @@ Sessions are 15 minutes. Walk up, sit down, get real feedback.
 We will open the [online registration](https://tickets.lonelyhackers.club) for resume reviews shortly before DEF CON. 
 You will be able to book a slot in our free pretix shop. Feel free to use a handle instead of your real name. You will have to check in in person 10 minutes before your registered slot or your slot will be given to walk-ins.
 
-> **_NOTE:_**  Registration for slots coming July 2026!
+> **_NOTE:_**  [Registration for slots is now open!](https://github.com/der-test/noobvillage/settings/pages)
 
 One of our reviewers will be be dedicated to walk-ins while reviews are running. So show up early to secure your spot if you missed the online registration.
 
