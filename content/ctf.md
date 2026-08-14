@@ -15,7 +15,7 @@ We welcome all skill levels, from first-time DEF CON attendees to experienced CT
 
 ## How to participate
 
-Just show up to the Lenely Hackers Club community room at DEF CON and look for the posted info. There are physical components in this CTF. Only solving the challenges of the CTF platform will lead to your disadvantage.
+Just show up to the Lonely Hackers Club community room at DEF CON and look for the posted info. There are physical components in this CTF. Only solving the challenges of the CTF platform will lead to your disadvantage.
 
 ## CTF platform
 

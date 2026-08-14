@@ -9,7 +9,9 @@ menu:
 
 You have the skills. You have the projects. You have the CTF wins, the home lab, the self-taught grind. But when it comes to putting it all on a resume, something gets lost in translation. That is exactly what this is for.
 
-Resume Reviews at DEF CON 34 is hosted by **[Lonely Hackers Club (LHC)](https://lonelyhackers.club)** together with **[Open Worldwide Application Security Project (OWASP)](https://owasp.org)**, **[The Diana Initiative](https://www.dianainitiative.org)**, **[Women in Security and Privacy (WISP)](https://www.wisporg.com)**, and **[Blue Team Village](https://blueteamvillage.com)**.
+Resume Reviews at DEF CON 34 was hosted by **[Lonely Hackers Club (LHC)](https://lonelyhackers.club)** together with **[Open Worldwide Application Security Project (OWASP)](https://owasp.org)**, **[The Diana Initiative](https://www.dianainitiative.org)**, **[Women in Security and Privacy (WISP)](https://www.wisporg.com)**, and **[Blue Team Village](https://blueteamvillage.com)**.
+
+> **_NOTE:_** Resume Reviews aim to be back at DEF CON 35. More info coming in July 2027!
 
 ### What This Is
 
@@ -33,16 +35,19 @@ Sessions are 15 minutes. Walk up, sit down, get real feedback.
 
 ### Where and When
 
-- Lonely Hackers Club community room at DEF CON 34
+- Lonely Hackers Club community room at DEF CON 35
+> **_NOTE:_** Schedule coming in July 2027
+<!--
 - Friday August 7th: 10:30 AM to 4:30 PM
 - Saturday August 8th: 10:30 AM to 4:30 PM
+-->
 
 ### Book Your Slot For Free
 
 We will open the [online registration](https://tickets.lonelyhackers.club) for resume reviews shortly before DEF CON. 
 You will be able to book a slot in our free pretix shop. Feel free to use a handle instead of your real name. You will have to check in in person 10 minutes before your registered slot or your slot will be given to walk-ins.
 
-> **_NOTE:_**  Registration for slots is now open!
+> **_NOTE:_**  Registration for slots will open in July 2027!
 
 One of our reviewers will be be dedicated to walk-ins while reviews are running. So show up early to secure your spot if you missed the online registration.
 
@@ -52,7 +57,7 @@ One of our reviewers will be be dedicated to walk-ins while reviews are running.
 
 ![](/lhc-resume-reviews-cfv-wide.jpeg)
 
-We are looking for volunteer resume reviewers for DEF CON 34. This is a community effort. We want people who are part of this community, have done the work, and have hired or managed others along the way.
+We are looking for volunteer resume reviewers for DEF CON 35. This is a community effort. We want people who are part of this community, have done the work, and have hired or managed others along the way.
 
 If you have built or led a technical team, made hiring decisions as a practitioner, or managed people in a security or engineering role, and you consider DEF CON your people, we want to hear from you.
 
@@ -68,11 +73,11 @@ If you have built or led a technical team, made hiring decisions as a practition
 - 15 minute one-on-one sessions with attendees during your shift
 - Honest, actionable feedback on how a resume reads from the perspective of someone who actually makes hiring decisions
 - Helping attendees, many of whom are self-taught, career-changing, or non-traditional, frame their real skills in language that lands
-- A commitment of at least one two-hour shift across Friday August 7th or Saturday 8th 2026 between 10:30 AM an 4:30 PM
+- A commitment of at least one two-hour shift across Friday August 6th or Saturday August 7th 2027 between 10:30 AM and 4:30 PM
 
 ### How to Volunteer
-
-- Fill out the [volunteer form](https://cryptpad.fr/form/#/2/form/view/f5k42x5Sn0V9WmvvY9JZgder3lnfoYde2Z4f6QUp6t8/embed/) with your background, the kind of hiring or management experience you have, and which two-hour blocks you are available for
+> **_NOTE:_** We will open the volunteer registration form in June 2027. Please check back then to sign up!
+- Fill out the volunteer form (opening in June 2027) with your background, the kind of hiring or management experience you have, and which two-hour blocks you are available for
 - Please pick more than one shift, if possible, so we can organize around your availabilities
 - When accepted, you will get access to our volunteer system where you can sign up for your shifts closer to the event
 - Once enough volunteers have registered, we will close the registration

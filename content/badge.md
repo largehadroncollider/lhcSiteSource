@@ -5,9 +5,8 @@ menu:
     name: Badge
     weight: 45
 ---
-## LHC Badge 2026
-
-> **_NOTE:_**  We're working on providing you with an awesome badge again this year. Stay tuned!
+## LHC Badge 2027
+For our 10th anniversary we are working on new badge, stay tuned!
 
 ## LHC Meshtastic Badge 2025
 <div style="overflow: auto;">
