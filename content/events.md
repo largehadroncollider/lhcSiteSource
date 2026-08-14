@@ -59,7 +59,7 @@ Learn new skills and find new friends at our lockpicking table. We provide you w
 DEF CON and stickers can't be separated. Visit our sticker swap table to get your hands on the latest sticky art and exchange the ones you made yourself. Check in regularly to get a chance to find rare gems.
 
 
-Schedule
+> **_NOTE:_** Schedule coming in July 2027
 <!--
 - Fr all day
 - Sat all day
